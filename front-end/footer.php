@@ -37,7 +37,7 @@
                         </div>
                         <div class="footer-contant">
                             <div class="footer-logo"><img src="../assets/images/custom/supagrab-logo.png" alt=""></div>
-                            <p>SupaGrab is a Fashion accessories and gift ilems hub. We possess the latest designs in a variety of Necklaces, Earrings, Bracelets and Pendants.</p>
+                            <p>SupaGrab is a Fashion accessories and gift items hub. We possess the latest designs in a variety of Necklaces, Earrings, Bracelets and Pendants.</p>
                             <div class="footer-social">
                                 <ul>
                                     <li><a href="https://www.facebook.com/supagrab/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
