@@ -69,7 +69,7 @@
                     <div class="col">
                         <div class="sub-title">
                             <div class="footer-title">
-                                <h4>why we chooseInfo</h4>
+                                <h4>Info</h4>
                             </div>
                             <div class="footer-contant">
                                 <ul>
