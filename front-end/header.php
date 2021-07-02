@@ -99,7 +99,7 @@
                                                 <a href="index.html">Home</a>
                                             </li>
 											<li>
-                                                <a href="#">OFFERS</a>
+                                                <a href="category-page(no-sidebar).html">OFFERS</a>
                                             </li>
                                             <li>
                                                 <a href="#">COSMETICS <div class="lable-nav">new</div></a>

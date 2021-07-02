@@ -37,8 +37,7 @@
                         </div>
                         <div class="footer-contant">
                             <div class="footer-logo"><img src="../assets/images/custom/supagrab-logo.png" alt=""></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+                            <p>SupaGrab is a Fashion accessories and gift ilems hub. We possess the latest designs in a variety of Necklaces, Earrings, Bracelets and Pendants.</p>
                             <div class="footer-social">
                                 <ul>
                                     <li><a href="https://www.facebook.com/supagrab/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -53,15 +52,31 @@
                     <div class="col offset-xl-1">
                         <div class="sub-title">
                             <div class="footer-title">
+                                <h4>SHOP</h4>
+                            </div>
+                            <div class="footer-contant">
+                                <ul>
+                                    <li><a href="#">Earrings</a></li>
+                                    <li><a href="#">Bracelets</a></li>
+                                    <li><a href="#">Cosmetics</a></li>
+                                    <li><a href="#">Kids</a></li>
+                                    <li><a href="#">Offers</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="sub-title">
+                            <div class="footer-title">
                                 <h4>ABOUT</h4>
                             </div>
                             <div class="footer-contant">
                                 <ul>
-                                    <li><a href="#">mens</a></li>
-                                    <li><a href="#">womens</a></li>
-                                    <li><a href="#">clothing</a></li>
-                                    <li><a href="#">accessories</a></li>
-                                    <li><a href="#">featured</a></li>
+                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Terms and Condition</a></li>
+                                    <li><a href="#">Cancellation Policy</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -73,27 +88,11 @@
                             </div>
                             <div class="footer-contant">
                                 <ul>
-                                    <li><a href="#">shipping & return</a></li>
-                                    <li><a href="#">secure shopping</a></li>
-                                    <li><a href="#">gallary</a></li>
-                                    <li><a href="#">affiliates</a></li>
-                                    <li><a href="#">contacts</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="sub-title">
-                            <div class="footer-title">
-                                <h4>store information</h4>
-                            </div>
-                            <div class="footer-contant">
-                                <ul class="contact-list">
-                                    <li><i class="fa fa-map-marker"></i>Multikart Demo Store, Demo store India 345-659
-                                    </li>
-                                    <li><i class="fa fa-phone"></i>Call Us: 123-456-7898</li>
-                                    <li><i class="fa fa-envelope-o"></i>Email Us: <a href="#">Support@Fiot.com</a></li>
-                                    <li><i class="fa fa-fax"></i>Fax: 123456</li>
+                                    <li><a href="#">Need Help?</a></li>
+                                    <li><a href="#">Shipping Info   </a></li>
+                                    <li><a href="#">Track My Order</a></li>
+                                    <li><a href="#">Easy Returns</a></li>
+                                    <li><a href="#">FAQ</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -104,33 +103,11 @@
         <div class="sub-footer">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6 col-md-6 col-sm-12">
-                        <div class="footer-end">
-                            <p><i class="fa fa-copyright" aria-hidden="true"></i> 2017-18 themeforest powered by
-                                pixelstrap</p>
+                    <div class="col-xl-12 col-md-12 col-sm-12">
+                        <div class="footer-end text-center">
+                            <p><i class="fa fa-copyright" aria-hidden="true"></i> Copyright – Supagrab 2021. All Right Reserved</p>
                         </div>
-                    </div>
-                    <div class="col-xl-6 col-md-6 col-sm-12">
-                        <div class="payment-card-bottom">
-                            <ul>
-                                <li>
-                                    <a href="#"><img src="../assets/images/icon/visa.png" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="../assets/images/icon/mastercard.png" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="../assets/images/icon/paypal.png" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="../assets/images/icon/american-express.png" alt=""></a>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="../assets/images/icon/discover.png" alt=""></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    </div>                    
                 </div>
             </div>
         </div>
@@ -258,10 +235,7 @@
 
     <!-- theme setting -->
     <div class="theme-settings">
-        <ul>            
-            <li>
-                <div class="dark-btn">Dark</div>
-            </li>           
+        <ul>                        
             <li class="input-picker">
                 <input id="ColorPicker1" type="color" value="#ff4c3b" name="Background">
             </li>
