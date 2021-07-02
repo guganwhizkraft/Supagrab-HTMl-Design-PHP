@@ -1,0 +1,65 @@
+/*========== Custom Css Started Here ============*/
+
+/*----- HOME SLIDER STARTED HERE -----*/
+.supa_slider .home.bg-size {
+    background-size: 100% 100% !important;
+}
+/*----- HOME SLIDER END HERE -----*/
+
+/*----- HOME CENTER BANNER STARTED HERE ------*/
+.obsession_heading h3 {
+    background: #fff !important;
+    color: #000 !important;    
+    letter-spacing: 8px !important;
+    word-spacing: 2px !important;
+    font-size: 18px !important;
+    margin: 0px auto 30px !important;
+    height: 36px !important;
+    padding-left: 10px !important;
+    padding-right: 4px !important;
+    padding-top: 8px !important;
+    width: auto !important;
+    max-width: 350px !important;
+}
+.banner-content h2 {
+    color: #e6c194 !important;
+    text-transform: uppercase !important;
+    font-weight: bolder !important;
+    letter-spacing: 10px !important;    
+    word-spacing: 2px !important;
+    line-height: 50px !important;
+    font-size: 41px !important;
+    margin-bottom: 30px !important;
+}
+.banner_para p, .banner_para span {
+    font-size: 20px !important;
+    max-width: 450px !important;
+    margin: 0px auto 30px !important;
+    color: #ffffff !important;
+    letter-spacing: 2px !important;
+}
+.fullblack_button:hover, .fullblack_button:focus, .fullblack_button:active {
+    transition: all 0.5s cubic-bezier(0.41, 0.52, 0.83, 0.9) 0s !important;
+    background-color: transparent !important;
+    color: #e6c194 !important;
+}
+.fullblack_button {
+    border: 1px solid #ffffff !important;
+    padding: 0px 20px !important;
+    min-height: 60px !important;
+    text-transform: uppercase !important;
+    letter-spacing: 2px !important;
+    font-weight: 400 !important;
+    min-width: 250px !important;
+    border-radius: 0px !important;
+    background-color: #ffffff !important;
+    transition: all 0.5s cubic-bezier(0.41, 0.52, 0.83, 0.9) 0s !important;
+    font-size: 18px !important;
+    color: #000000 !important;
+}
+.center_banner .banner-contain.float-end {
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: 0;
+}
+/*----- HOME CENTER BANNER END HERE ------*/
