@@ -27,9 +27,6 @@
     <!-- Animate icon -->
     <link rel="stylesheet" type="text/css" href="../assets/css/vendors/animate.css">
 
-    <!-- Price range icon -->
-    <link rel="stylesheet" type="text/css" href="../assets/css/vendors/price-range.css">
-
     <!-- Themify icon -->
     <link rel="stylesheet" type="text/css" href="../assets/css/vendors/themify-icons.css">
 
@@ -42,6 +39,7 @@
 </head>
 
 <body class="theme-color-1">
+
 
     <!-- loader start -->
     <div class="loader_skeleton">
@@ -1020,7 +1018,7 @@
                                                     <div class="col-12">
                                                         <div class="product-filter-content">
                                                             <div class="search-count">
-                                                                <h5 class="filter-bottom-title">filter-panel<h5>
+                                                                <h5>Showing Products 1-24 of 10 Result</h5>
                                                             </div>
                                                             <div class="collection-view">
                                                                 <ul>
@@ -1059,154 +1057,6 @@
                                                                 </select>
                                                             </div>
                                                         </div>
-                                                        <div
-                                                            class="collection-filter container-fluid top-filter filter-bottom-content">
-                                                            <!-- side-bar colleps block stat -->
-                                                            <div class="collection-filter-block row m-0">
-                                                                <!-- brand filter start -->
-                                                                <div class="collection-mobile-back col-12"><span
-                                                                        class="filter-back"><i class="fa fa-angle-left"
-                                                                            aria-hidden="true"></i> back</span></div>
-                                                                <div class="collection-collapse-block open col-lg-3">
-                                                                    <h3 class="collapse-block-title">brand</h3>
-                                                                    <div class="collection-collapse-block-content">
-                                                                        <div class="collection-brand-filter">
-                                                                            <div
-                                                                                class="form-check collection-filter-checkbox">
-                                                                                <input type="checkbox"
-                                                                                    class="form-check-input" id="zara">
-                                                                                <label class="form-check-label"
-                                                                                    for="zara">zara</label>
-                                                                            </div>
-                                                                            <div
-                                                                                class="form-check collection-filter-checkbox">
-                                                                                <input type="checkbox"
-                                                                                    class="form-check-input"
-                                                                                    id="vera-moda">
-                                                                                <label class="form-check-label"
-                                                                                    for="vera-moda">vera-moda</label>
-                                                                            </div>
-                                                                            <div
-                                                                                class="form-check collection-filter-checkbox">
-                                                                                <input type="checkbox"
-                                                                                    class="form-check-input"
-                                                                                    id="forever-21">
-                                                                                <label class="form-check-label"
-                                                                                    for="forever-21">forever-21</label>
-                                                                            </div>
-                                                                            <div
-                                                                                class="form-check collection-filter-checkbox">
-                                                                                <input type="checkbox"
-                                                                                    class="form-check-input"
-                                                                                    id="roadster">
-                                                                                <label class="form-check-label"
-                                                                                    for="roadster">roadster</label>
-                                                                            </div>
-                                                                            <div
-                                                                                class="form-check collection-filter-checkbox">
-                                                                                <input type="checkbox"
-                                                                                    class="form-check-input" id="only">
-                                                                                <label class="form-check-label"
-                                                                                    for="only">only</label>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <!-- color filter start here -->
-                                                                <div class="collection-collapse-block open col-lg-3">
-                                                                    <h3 class="collapse-block-title">colors</h3>
-                                                                    <div class="collection-collapse-block-content">
-                                                                        <div class="color-w-name">
-                                                                            <ul class="row">
-                                                                                <li class="active col-12"><span
-                                                                                        class="color-1"></span>white
-                                                                                </li>
-                                                                                <li class="col-12"><span
-                                                                                        class="color-2"></span>grey</li>
-                                                                                <li class="col-12"><span
-                                                                                        class="color-3"></span>red</li>
-                                                                                <li class="col-12"><span
-                                                                                        class="color-4"></span>purple
-                                                                                </li>
-                                                                                <li class="col-12"><span
-                                                                                        class="color-5"></span>blue</li>
-                                                                                <li class="col-12"><span
-                                                                                        class="color-6"></span>yellow
-                                                                                </li>
-                                                                                <li class="col-12"><span
-                                                                                        class="color-7"></span>green
-                                                                                </li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <!-- size filter start here -->
-                                                                <div
-                                                                    class="collection-collapse-block border-0 open col-lg-3">
-                                                                    <h3 class="collapse-block-title">size</h3>
-                                                                    <div class="collection-collapse-block-content">
-                                                                        <div class="collection-brand-filter">
-                                                                            <div
-                                                                                class="form-check collection-filter-checkbox">
-                                                                                <input type="checkbox"
-                                                                                    class="form-check-input"
-                                                                                    id="hundred">
-                                                                                <label class="form-check-label"
-                                                                                    for="hundred">s</label>
-                                                                            </div>
-                                                                            <div
-                                                                                class="form-check collection-filter-checkbox">
-                                                                                <input type="checkbox"
-                                                                                    class="form-check-input"
-                                                                                    id="twohundred">
-                                                                                <label class="form-check-label"
-                                                                                    for="twohundred">m</label>
-                                                                            </div>
-                                                                            <div
-                                                                                class="form-check collection-filter-checkbox">
-                                                                                <input type="checkbox"
-                                                                                    class="form-check-input"
-                                                                                    id="threehundred">
-                                                                                <label class="form-check-label"
-                                                                                    for="threehundred">l</label>
-                                                                            </div>
-                                                                            <div
-                                                                                class="form-check collection-filter-checkbox">
-                                                                                <input type="checkbox"
-                                                                                    class="form-check-input"
-                                                                                    id="fourhundred">
-                                                                                <label class="form-check-label"
-                                                                                    for="fourhundred">xl</label>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <!-- price filter start here -->
-                                                                <div
-                                                                    class="collection-collapse-block border-0 open col-lg-3">
-                                                                    <h3 class="collapse-block-title">price</h3>
-                                                                    <div class="collection-collapse-block-content">
-                                                                        <div class="wrapper mt-3">
-                                                                            <div class="range-slider">
-                                                                                <input type="text"
-                                                                                    class="js-range-slider" value="" />
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-12">
-                                                                    <div class="text-end button_bottom">
-                                                                        <a href="javascript:void(0)"
-                                                                            class="btn btn-solid btn-xs me-2">apply</a>
-                                                                        <a href="javascript:void(0)"
-                                                                            class="btn btn-solid btn-xs close-filter-bottom">close
-                                                                            filter</a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- silde-bar colleps block end here -->
-                                                        </div>
-
                                                     </div>
                                                 </div>
                                             </div>
@@ -2690,9 +2540,6 @@
 
     <!-- lazyload js-->
     <script src="../assets/js/lazysizes.min.js"></script>
-
-    <!-- price range js -->
-    <script src="../assets/js/price-range.js"></script>
 
     <!-- slick js-->
     <script src="../assets/js/slick.js"></script>

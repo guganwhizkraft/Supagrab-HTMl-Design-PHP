@@ -5,7 +5,7 @@
         <div class="slide-1 home-slider">
             <div>
                 <div class="home  text-center">
-                    <img src="../assets/images/custom/banner-img.jpg" alt="" class="bg-img blur-up lazyload">
+                    <img src="../assets/images/custom/Website-Banner-3.jpg" alt="" class="bg-img blur-up lazyload">
                     <div class="container">
                         <div class="row">
                             <div class="col">
@@ -19,7 +19,7 @@
             </div>
             <div>
                 <div class="home text-center">
-                    <img src="../assets/images/custom/Website Banner-1.jpg" alt="" class="bg-img blur-up lazyload">
+                    <img src="../assets/images/custom/Website-Banner-1.jpg" alt="" class="bg-img blur-up lazyload">
                     <div class="container">
                         <div class="row">
                             <div class="col">
@@ -35,7 +35,7 @@
             </div>
 			<div>
                 <div class="home text-center">
-                    <img src="../assets/images/custom/Website-Banner-a.jpg" alt="" class="bg-img blur-up lazyload">
+                    <img src="../assets/images/custom/Website-Banner-5.jpg" alt="" class="bg-img blur-up lazyload">
                     <div class="container">
                         <div class="row">
                             <div class="col">
@@ -51,12 +51,12 @@
             </div>
 			<div>
                 <div class="home text-center">
-                    <img src="../assets/images/custom/obsession_banner_img.png" alt="" class="bg-img blur-up lazyload">
+                    <img src="../assets/images/custom/Website-Banner-5BG.jpg" alt="" class="bg-img blur-up lazyload">
                     <div class="container">
                         <div class="row">
                             <div class="col">
                                 <div class="slider-contain">
-                                    <div style="margin-left: auto;">
+                                    <div>
                                         <h4>welcome to fashion</h4>
                                         <h1>Women fashion</h1>
                                         <a href="#" class="btn btn-solid" tabindex="0">shop now</a>
@@ -69,7 +69,7 @@
             </div>
             <div>
                 <div class="home text-center">
-                    <img src="../assets/images/custom/Website-Banner.jpg" alt="" class="bg-img blur-up lazyload">
+                    <img src="../assets/images/custom/banner-img.jpg" alt="" class="bg-img blur-up lazyload">
                     <div class="container">
                         <div class="row">
                             <div class="col">
@@ -82,7 +82,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>            
         </div>
     </section>
     <!-- Home slider end -->
@@ -387,7 +387,7 @@
                             <a href="#">
                                 <div class="classic-effect">
                                     <div>
-                                        <img src="../assets/images/custom/Cosmetic_New-min.jpg" class="img-fluid blur-up lazyload bg-img"
+                                        <img src="../assets/images/custom/Cosmetic.jpg" class="img-fluid blur-up lazyload bg-img"
                                             alt="">
                                     </div>
                                     <span></span>
@@ -404,7 +404,7 @@
                             <a href="#">
                                 <div class="classic-effect">
                                     <div>
-                                        <img src="../assets/images/custom/Earrings_New-min.jpg" class="img-fluid blur-up lazyload bg-img"
+                                        <img src="../assets/images/custom/Earrings-2.jpg" class="img-fluid blur-up lazyload bg-img"
                                             alt="">
                                     </div>
                                     <span></span>
@@ -421,7 +421,7 @@
                             <a href="#">
                                 <div class="classic-effect">
                                     <div>
-                                        <img src="../assets/images/custom/Necklace_New-min.jpg" class="img-fluid blur-up lazyload bg-img"
+                                        <img src="../assets/images/custom/Necklace-2.jpg" class="img-fluid blur-up lazyload bg-img"
                                             alt="">
                                     </div>
                                     <span></span>
@@ -438,7 +438,24 @@
                             <a href="#">
                                 <div class="classic-effect">
                                     <div>
-                                        <img src="../assets/images/custom/Bracelet_New-min.jpg" class="img-fluid blur-up lazyload bg-img"
+                                        <img src="../assets/images/custom/Ring-2.jpg" class="img-fluid blur-up lazyload bg-img"
+                                            alt="">
+                                    </div>
+                                    <span></span>
+                                </div>
+                            </a>
+                            <div class="blog-details">
+                                <a href="#">
+                                    <p>RINGS</p>
+                                </a>
+                                <hr class="style1">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <a href="#">
+                                <div class="classic-effect">
+                                    <div>
+                                        <img src="../assets/images/custom/Bracelet-2.jpg" class="img-fluid blur-up lazyload bg-img"
                                             alt="">
                                     </div>
                                     <span></span>
@@ -447,6 +464,40 @@
                             <div class="blog-details">
                                 <a href="#">
                                     <p>BRACELETS</p>
+                                </a>
+                                <hr class="style1">
+                            </div>
+                        </div>   
+                        <div class="col-md-12">
+                            <a href="#">
+                                <div class="classic-effect">
+                                    <div>
+                                        <img src="../assets/images/custom/Keychain.jpg" class="img-fluid blur-up lazyload bg-img"
+                                            alt="">
+                                    </div>
+                                    <span></span>
+                                </div>
+                            </a>
+                            <div class="blog-details">
+                                <a href="#">
+                                    <p>KEYCHAINS</p>
+                                </a>
+                                <hr class="style1">
+                            </div>
+                        </div> 
+                        <div class="col-md-12">
+                            <a href="#">
+                                <div class="classic-effect">
+                                    <div>
+                                        <img src="../assets/images/custom/Kids.jpg" class="img-fluid blur-up lazyload bg-img"
+                                            alt="">
+                                    </div>
+                                    <span></span>
+                                </div>
+                            </a>
+                            <div class="blog-details">
+                                <a href="#">
+                                    <p>KIDS</p>
                                 </a>
                                 <hr class="style1">
                             </div>
@@ -470,9 +521,9 @@
                 <div class="col">
                     <div class="theme-tab">
                         <ul class="tabs tab-title">                            
-                            <li class=""><a href="cosmetics">Cosmetics</a></li>
+                            <li class="current"><a href="cosmetics">Cosmetics</a></li>
                             <li class=""><a href="bracelets">Bracelets</a></li>
-                            <li class="current"><a href="earrings">Earrings</a></li>
+                            <li class=""><a href="earrings">Earrings</a></li>
                         </ul>
                         <div class="tab-content-cls">
                             <div id="cosmetics" class="tab-content  active default">
