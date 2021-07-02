@@ -165,21 +165,23 @@
                         <div class="col-12">
                             <div class="container-fluid">
                                 <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="main-product lg-img"></div>
-                                        <div class="row">
-                                            <div class="col-4">
+                                    <div class="col-lg-1 col-sm-2 col-xs-12">
+                                        <div class="row vertical-product">
+                                            <div class="col-sm-12 col-4">
                                                 <div class="sm-product"></div>
                                             </div>
-                                            <div class="col-4">
+                                            <div class="col-sm-12 col-4">
                                                 <div class="sm-product"></div>
                                             </div>
-                                            <div class="col-4">
+                                            <div class="col-sm-12 col-4">
                                                 <div class="sm-product"></div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-6">
+                                    <div class="col-lg-5 col-sm-10 col-xs-12 order-up">
+                                        <div class="main-product lg-img"></div>
+                                    </div>
+                                    <div class="col-lg-6 rtl-text">
                                         <div class="product-right">
                                             <h2></h2>
                                             <h4></h4>
@@ -879,30 +881,32 @@
         <div class="collection-wrapper">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
-                        <div class="product-slick">
-                            <div><img src="../assets/images/fashion/pro/001.jpg" alt=""
-                                    class="img-fluid blur-up lazyload image_zoom_cls-0"></div>
-                            <div><img src="../assets/images/fashion/pro/002.jpg" alt=""
-                                    class="img-fluid blur-up lazyload image_zoom_cls-1"></div>
-                            <div><img src="../assets/images/fashion/pro/003.jpg" alt=""
-                                    class="img-fluid blur-up lazyload image_zoom_cls-2"></div>
-                            <div><img src="../assets/images/fashion/pro/004.jpg" alt=""
-                                    class="img-fluid blur-up lazyload image_zoom_cls-3"></div>
-                        </div>
+                    <div class="col-lg-1 col-sm-2 col-xs-12">
                         <div class="row">
                             <div class="col-12 p-0">
-                                <div class="slider-nav">
-                                    <div><img src="../assets/images/fashion/pro/001.jpg" alt=""
+                                <div class="slider-right-nav">
+                                    <div><img src="../assets/images/pro3/1.jpg" alt=""
                                             class="img-fluid blur-up lazyload"></div>
-                                    <div><img src="../assets/images/fashion/pro/002.jpg" alt=""
+                                    <div><img src="../assets/images/pro3/2.jpg" alt=""
                                             class="img-fluid blur-up lazyload"></div>
-                                    <div><img src="../assets/images/fashion/pro/003.jpg" alt=""
+                                    <div><img src="../assets/images/pro3/27.jpg" alt=""
                                             class="img-fluid blur-up lazyload"></div>
-                                    <div><img src="../assets/images/fashion/pro/004.jpg" alt=""
+                                    <div><img src="../assets/images/pro3/27.jpg" alt=""
                                             class="img-fluid blur-up lazyload"></div>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-sm-10 col-xs-12 order-up">
+                        <div class="product-right-slick">
+                            <div><img src="../assets/images/pro3/1.jpg" alt=""
+                                    class="img-fluid blur-up lazyload image_zoom_cls-0"></div>
+                            <div><img src="../assets/images/pro3/2.jpg" alt=""
+                                    class="img-fluid blur-up lazyload image_zoom_cls-1"></div>
+                            <div><img src="../assets/images/pro3/27.jpg" alt=""
+                                    class="img-fluid blur-up lazyload image_zoom_cls-2"></div>
+                            <div><img src="../assets/images/pro3/27.jpg" alt=""
+                                    class="img-fluid blur-up lazyload image_zoom_cls-3"></div>
                         </div>
                     </div>
                     <div class="col-lg-6 rtl-text">
@@ -933,13 +937,10 @@
                                 <span class="label-text">in fashion</span>
                             </div>
                             <h3 class="price-detail">$32.96 <del>$459.00</del><span>55% off</span></h3>
-                            <ul class="image-swatch">
-                                <li class="active"><a href="#"><img src="../assets/images/fashion/pro/m-001.jpg" alt=""
-                                            class="img-fluid blur-up lazyload"></a></li>
-                                <li><a href="#"><img src="../assets/images/fashion/pro/m-002.jpg" alt=""
-                                            class="img-fluid blur-up lazyload"></a></li>
-                                <li><a href="#"><img src="../assets/images/fashion/pro/m-003.jpg" alt=""
-                                            class="img-fluid blur-up lazyload"></a></li>
+                            <ul class="color-variant">
+                                <li class="bg-light0 active"></li>
+                                <li class="bg-light1"></li>
+                                <li class="bg-light2"></li>
                             </ul>
                             <div id="selectSize" class="addeffect-section product-description border-product">
                                 <h6 class="product-title size-text">select size <span><a href="" data-bs-toggle="modal"
@@ -1018,44 +1019,6 @@
                                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                         <li><a href="#"><i class="fa fa-rss"></i></a></li>
                                     </ul>
-                                </div>
-                            </div>
-                            <div class="border-product">
-                                <h6 class="product-title">Frequently bought together</h6>
-                                <div class="bundle">
-                                    <div class="bundle_img">
-                                        <div class="img-box">
-                                            <a href="#"><img src="../assets/images/fashion/pro/001.jpg" alt=""
-                                                    class="img-fluid blur-up lazyload"></a>
-                                        </div>
-                                        <span class="plus">+</span>
-                                        <div class="img-box">
-                                            <a href="#"><img src="../assets/images/fashion/pro/skirt.jpg" alt=""
-                                                    class="img-fluid blur-up lazyload"></a>
-                                        </div>
-                                        <span class="plus">+</span>
-                                        <div class="img-box">
-                                            <a href="#"><img src="../assets/images/fashion/pro/shoes.jpg" alt=""
-                                                    class="img-fluid blur-up lazyload"></a>
-                                        </div>
-                                    </div>
-                                    <div class="bundle_detail">
-                                        <div class="theme_checkbox">
-                                            <label>this product: WOMEN PINK SHIRT <span class="price_product">$55</span>
-                                                <input type="checkbox" checked="checked">
-                                                <span class="checkmark"></span>
-                                            </label>
-                                            <label>black long skirt <span class="price_product">$20</span>
-                                                <input type="checkbox" checked="checked">
-                                                <span class="checkmark"></span>
-                                            </label>
-                                            <label>women heeled boots <span class="price_product">$15</span>
-                                                <input type="checkbox" checked="checked">
-                                                <span class="checkmark"></span>
-                                            </label>
-                                            <a href="#" class="btn btn-solid btn-xs">buy this bundle</a>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -1223,46 +1186,11 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <div class="front">
-                                <a href="#"><img src="../assets/images/fashion/pro/1.jpg"
+                                <a href="#"><img src="../assets/images/pro3/33.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="back">
-                                <a href="#"><img src="../assets/images/fashion/pro/01.jpg"
-                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                            </div>
-                            <div class="cart-info cart-wrap">
-                                <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
-                                        class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                    title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                    data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
-                                        class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
-                                    title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
-                            </div>
-                        </div>
-                        <div class="product-detail">
-                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div>
-                            <a href="product-page(no-sidebar).html">
-                                <h6>Slim Fit Cotton Shirt</h6>
-                            </a>
-                            <h4>$500.00</h4>
-                            <ul class="color-variant">
-                                <li class="bg-light0 active"></li>
-                                <li class="bg-light1"></li>
-                                <li class="bg-light2"></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4 col-6">
-                    <div class="product-box">
-                        <div class="img-wrapper">
-                            <div class="front">
-                                <a href="#"><img src="../assets/images/fashion/pro/5.jpg"
-                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                            </div>
-                            <div class="back">
-                                <a href="#"><img src="../assets/images/fashion/pro/05.jpg"
+                                <a href="#"><img src="../assets/images/pro3/34.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="cart-info cart-wrap">
@@ -1293,11 +1221,11 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <div class="front">
-                                <a href="#"><img src="../assets/images/fashion/pro/6.jpg"
+                                <a href="#"><img src="../assets/images/pro3/1.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="back">
-                                <a href="#"><img src="../assets/images/fashion/pro/06.jpg"
+                                <a href="#"><img src="../assets/images/pro3/2.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="cart-info cart-wrap">
@@ -1328,11 +1256,11 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <div class="front">
-                                <a href="#"><img src="../assets/images/fashion/pro/7.jpg"
+                                <a href="#"><img src="../assets/images/pro3/27.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="back">
-                                <a href="#"><img src="../assets/images/fashion/pro/07.jpg"
+                                <a href="#"><img src="../assets/images/pro3/28.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="cart-info cart-wrap">
@@ -1363,11 +1291,11 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <div class="front">
-                                <a href="#"><img src="../assets/images/fashion/pro/2.jpg"
+                                <a href="#"><img src="../assets/images/pro3/35.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="back">
-                                <a href="#"><img src="../assets/images/fashion/pro/1.jpg"
+                                <a href="#"><img src="../assets/images/pro3/36.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="cart-info cart-wrap">
@@ -1398,11 +1326,46 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <div class="front">
-                                <a href="#"><img src="../assets/images/fashion/pro/11.jpg"
+                                <a href="#"><img src="../assets/images/pro3/2.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="back">
-                                <a href="#"><img src="../assets/images/fashion/pro/011.jpg"
+                                <a href="#"><img src="../assets/images/pro3/1.jpg"
+                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                            </div>
+                            <div class="cart-info cart-wrap">
+                                <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
+                                        class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
+                                    title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                    data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
+                                        class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
+                                    title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                        <div class="product-detail">
+                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
+                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div>
+                            <a href="product-page(no-sidebar).html">
+                                <h6>Slim Fit Cotton Shirt</h6>
+                            </a>
+                            <h4>$500.00</h4>
+                            <ul class="color-variant">
+                                <li class="bg-light0"></li>
+                                <li class="bg-light1"></li>
+                                <li class="bg-light2"></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4 col-6">
+                    <div class="product-box">
+                        <div class="img-wrapper">
+                            <div class="front">
+                                <a href="#"><img src="../assets/images/pro3/28.jpg"
+                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                            </div>
+                            <div class="back">
+                                <a href="#"><img src="../assets/images/pro3/27.jpg"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="cart-info cart-wrap">
@@ -2331,129 +2294,6 @@
     <!-- Add to cart modal popup end-->
 
 
-    <!-- Add to cart modal popup start-->
-    <div class="modal fade bd-example-modal-lg theme-modal cart-modal" id="addtocart" tabindex="-1" role="dialog"
-        aria-hidden="true">
-        <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
-            <div class="modal-content">
-                <div class="modal-body modal1">
-                    <div class="container-fluid p-0">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="modal-bg addtocart">
-                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                    <div class="media">
-                                        <a href="#">
-                                            <img class="img-fluid blur-up lazyload pro-img"
-                                                src="../assets/images/fashion/product/43.jpg" alt="">
-                                        </a>
-                                        <div class="media-body align-self-center text-center">
-                                            <a href="#">
-                                                <h6>
-                                                    <i class="fa fa-check"></i>Item
-                                                    <span>men full sleeves</span>
-                                                    <span> successfully added to your Cart</span>
-                                                </h6>
-                                            </a>
-                                            <div class="buttons">
-                                                <a href="#" class="view-cart btn btn-solid">Your cart</a>
-                                                <a href="#" class="checkout btn btn-solid">Check out</a>
-                                                <a href="#" class="continue btn btn-solid">Continue shopping</a>
-                                            </div>
-
-                                            <div class="upsell_payment">
-                                                <img src="../assets/images/payment_cart.png"
-                                                    class="img-fluid blur-up lazyload" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="product-section">
-                                        <div class="col-12 product-upsell text-center">
-                                            <h4>Customers who bought this item also.</h4>
-                                        </div>
-                                        <div class="row" id="upsell_product">
-                                            <div class="product-box col-sm-3 col-6">
-                                                <div class="img-wrapper">
-                                                    <div class="front">
-                                                        <a href="#">
-                                                            <img src="../assets/images/fashion/product/1.jpg"
-                                                                class="img-fluid blur-up lazyload mb-1"
-                                                                alt="cotton top">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-detail">
-                                                        <h6><a href="#"><span>cotton top</span></a></h6>
-                                                        <h4><span>$25</span></h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="product-box col-sm-3 col-6">
-                                                <div class="img-wrapper">
-                                                    <div class="front">
-                                                        <a href="#">
-                                                            <img src="../assets/images/fashion/product/34.jpg"
-                                                                class="img-fluid blur-up lazyload mb-1"
-                                                                alt="cotton top">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-detail">
-                                                        <h6><a href="#"><span>cotton top</span></a></h6>
-                                                        <h4><span>$25</span></h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="product-box col-sm-3 col-6">
-                                                <div class="img-wrapper">
-                                                    <div class="front">
-                                                        <a href="#">
-                                                            <img src="../assets/images/fashion/product/13.jpg"
-                                                                class="img-fluid blur-up lazyload mb-1"
-                                                                alt="cotton top">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-detail">
-                                                        <h6><a href="#"><span>cotton top</span></a></h6>
-                                                        <h4><span>$25</span></h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="product-box col-sm-3 col-6">
-                                                <div class="img-wrapper">
-                                                    <div class="front">
-                                                        <a href="#">
-                                                            <img src="../assets/images/fashion/product/19.jpg"
-                                                                class="img-fluid blur-up lazyload mb-1"
-                                                                alt="cotton top">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-detail">
-                                                        <h6><a href="#"><span>cotton top</span></a></h6>
-                                                        <h4><span>$25</span></h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Add to cart modal popup end-->
-
-
-    <!-- tap to top start -->
-    <div class="tap-top">
-        <div><i class="fa fa-angle-double-up"></i></div>
-    </div>
-    <!-- tap to top end -->
-
-
     <!-- sticky cart bottom start -->
     <div class="sticky-bottom-cart d-sm-block d-none">
         <div class="container">
@@ -2502,6 +2342,13 @@
     <!-- added to cart notification -->
 
 
+    <!-- tap to top start -->
+    <div class="tap-top">
+        <div><i class="fa fa-angle-double-up"></i></div>
+    </div>
+    <!-- tap to top end -->
+
+
     <!-- latest jquery-->
     <script src="../assets/js/jquery-3.3.1.min.js"></script>
 
@@ -2511,11 +2358,11 @@
     <!-- lazyload js-->
     <script src="../assets/js/lazysizes.min.js"></script>
 
-    <!-- slick js-->
-    <script src="../assets/js/slick.js"></script>
-
     <!-- sticky cart bottom js-->
     <script src="../assets/js/sticky-cart-bottom.js"></script>
+
+    <!-- slick js-->
+    <script src="../assets/js/slick.js"></script>
 
     <!-- timer js-->
     <script src="../assets/js/timer.js"></script>

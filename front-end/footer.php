@@ -60,7 +60,7 @@
                                     <li><a href="#">Bracelets</a></li>
                                     <li><a href="#">Cosmetics</a></li>
                                     <li><a href="#">Kids</a></li>
-                                    <li><a href="#">Offers</a></li>
+                                    <li><a href="category-page(no-sidebar).php">Offers</a></li>
                                 </ul>
                             </div>
                         </div>
