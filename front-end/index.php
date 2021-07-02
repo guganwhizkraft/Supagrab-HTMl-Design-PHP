@@ -17,6 +17,22 @@
                     </div>
                 </div>
             </div>
+            <div>
+                <div class="home text-center">
+                    <img src="../assets/images/custom/Website Banner-1.jpg" alt="" class="bg-img blur-up lazyload">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col">
+                                <div class="slider-contain">
+                                    <div>                                        
+                                       
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 			<div>
                 <div class="home text-center">
                     <img src="../assets/images/custom/Website-Banner-a.jpg" alt="" class="bg-img blur-up lazyload">
@@ -444,338 +460,22 @@
 
 
     <!-- Tab product -->
-    <div class="title1 section-t-space">
+    <div class="title1 section-t-space mview_heading">
         <h4>exclusive products</h4>
-        <h2 class="title-inner1">everyday casual</h2>
+        <h2 class="title-inner1">MOST VIEWED PRODUCTS</h2>
     </div>
-    <section class="section-b-space pt-0 ratio_asos">
+    <section class="section-b-space pt-0 ratio_asos mview_prod">
         <div class="container">
             <div class="row">
                 <div class="col">
                     <div class="theme-tab">
-                        <ul class="tabs tab-title">
-                            <li class="current"><a href="tab-4">work casual</a></li>
-                            <li class=""><a href="tab-5">WFH Wear</a></li>
-                            <li class=""><a href="tab-6">comfort wear</a></li>
+                        <ul class="tabs tab-title">                            
+                            <li class=""><a href="cosmetics">Cosmetics</a></li>
+                            <li class=""><a href="bracelets">Bracelets</a></li>
+                            <li class="current"><a href="earrings">Earrings</a></li>
                         </ul>
                         <div class="tab-content-cls">
-                            <div id="tab-4" class="tab-content active default">
-                                <div class="no-slider row">
-                                    <div class="product-box">
-                                        <div class="img-wrapper">
-                                            <div class="front">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/27.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/28.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="cart-info cart-wrap">
-                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
-                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
-                                                    href="javascript:void(0)" title="Add to Wishlist"><i
-                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                                <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                        aria-hidden="true"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
-                                            <a href="product-page(no-sidebar).html">
-                                                <h6>purple solid polo tshirt</h6>
-                                            </a>
-                                            <h4>$50.00</h4>
-                                            <ul class="color-variant">
-                                                <li class="bg-light0"></li>
-                                                <li class="bg-light1"></li>
-                                                <li class="bg-light2"></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="product-box">
-                                        <div class="img-wrapper">
-                                            <div class="lable-block"><span class="lable3">new</span> <span
-                                                    class="lable4">on sale</span></div>
-                                            <div class="front">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/1.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/2.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="cart-info cart-wrap">
-                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
-                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
-                                                    href="javascript:void(0)" title="Add to Wishlist"><i
-                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                                <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                        aria-hidden="true"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
-                                            <a href="product-page(no-sidebar).html">
-                                                <h6>sleevles white tshirt with text</h6>
-                                            </a>
-                                            <h4>$65.00</h4>
-                                            <ul class="color-variant">
-                                                <li class="bg-light0"></li>
-                                                <li class="bg-light1"></li>
-                                                <li class="bg-light2"></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="product-box">
-                                        <div class="img-wrapper">
-                                            <div class="front">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/33.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/34.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="cart-info cart-wrap">
-                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
-                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
-                                                    href="javascript:void(0)" title="Add to Wishlist"><i
-                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                                <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                        aria-hidden="true"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
-                                            <a href="product-page(no-sidebar).html">
-                                                <h6>multi-color polo tshirt</h6>
-                                            </a>
-                                            <h4>$45.00</h4>
-                                            <ul class="color-variant">
-                                                <li class="bg-light0"></li>
-                                                <li class="bg-light1"></li>
-                                                <li class="bg-light2"></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="product-box">
-                                        <div class="img-wrapper">
-                                            <div class="lable-block"><span class="lable3">new</span> <span
-                                                    class="lable4">on sale</span></div>
-                                            <div class="front">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/35.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/36.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="cart-info cart-wrap">
-                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
-                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
-                                                    href="javascript:void(0)" title="Add to Wishlist"><i
-                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                                <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                        aria-hidden="true"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
-                                            <a href="product-page(no-sidebar).html">
-                                                <h6>Candy red solid tshirt</h6>
-                                            </a>
-                                            <h4>$30.00</h4>
-                                            <ul class="color-variant">
-                                                <li class="bg-light0"></li>
-                                                <li class="bg-light1"></li>
-                                                <li class="bg-light2"></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="product-box">
-                                        <div class="img-wrapper">
-                                            <div class="lable-block"><span class="lable3">new</span> <span
-                                                    class="lable4">on sale</span></div>
-                                            <div class="front">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/33.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/34.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="cart-info cart-wrap">
-                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
-                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
-                                                    href="javascript:void(0)" title="Add to Wishlist"><i
-                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                                <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                        aria-hidden="true"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
-                                            <a href="product-page(no-sidebar).html">
-                                                <h6>multi-color polo tshirt</h6>
-                                            </a>
-                                            <h4>$65.00</h4>
-                                            <ul class="color-variant">
-                                                <li class="bg-light0"></li>
-                                                <li class="bg-light1"></li>
-                                                <li class="bg-light2"></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="product-box">
-                                        <div class="img-wrapper">
-                                            <div class="front">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/35.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/36.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="cart-info cart-wrap">
-                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
-                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
-                                                    href="javascript:void(0)" title="Add to Wishlist"><i
-                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                                <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                        aria-hidden="true"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
-                                            <a href="product-page(no-sidebar).html">
-                                                <h6>Candy red solid tshirt</h6>
-                                            </a>
-                                            <h4>$500.00</h4>
-                                            <ul class="color-variant">
-                                                <li class="bg-light0"></li>
-                                                <li class="bg-light1"></li>
-                                                <li class="bg-light2"></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="product-box">
-                                        <div class="img-wrapper">
-                                            <div class="lable-block"><span class="lable3">new</span> <span
-                                                    class="lable4">on sale</span></div>
-                                            <div class="front">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/1.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/2.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="cart-info cart-wrap">
-                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
-                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
-                                                    href="javascript:void(0)" title="Add to Wishlist"><i
-                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                                <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                        aria-hidden="true"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
-                                            <a href="product-page(no-sidebar).html">
-                                                <h6>sleevles white tshirt with text</h6>
-                                            </a>
-                                            <h4>$50.00</h4>
-                                            <ul class="color-variant">
-                                                <li class="bg-light0"></li>
-                                                <li class="bg-light1"></li>
-                                                <li class="bg-light2"></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="product-box">
-                                        <div class="img-wrapper">
-                                            <div class="front">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/27.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/28.jpg"
-                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
-                                            </div>
-                                            <div class="cart-info cart-wrap">
-                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
-                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
-                                                    href="javascript:void(0)" title="Add to Wishlist"><i
-                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                                <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                        aria-hidden="true"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
-                                            <a href="product-page(no-sidebar).html">
-                                                <h6>purple solid polo tshirt</h6>
-                                            </a>
-                                            <h4>$25.00</h4>
-                                            <ul class="color-variant">
-                                                <li class="bg-light0"></li>
-                                                <li class="bg-light1"></li>
-                                                <li class="bg-light2"></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="tab-5" class="tab-content">
+                            <div id="cosmetics" class="tab-content  active default">
                                 <div class="no-slider row">
                                     <div class="product-box">
                                         <div class="img-wrapper">
@@ -783,12 +483,12 @@
                                                     class="lable4">on sale</span></div>
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/33.jpg"
+                                                        src="../assets/images/custom/20210414_164744-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/34.jpg"
+                                                        src="../assets/images/custom/20210414_165123-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -802,10 +502,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>purple solid polo tshirt</h6>
                                             </a>
@@ -821,12 +518,12 @@
                                         <div class="img-wrapper">
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/35.jpg"
+                                                        src="../assets/images/custom/20210414_170713-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/36.jpg"
+                                                        src="../assets/images/custom/20210414_170723-min-1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -840,10 +537,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>Candy red solid tshirt</h6>
                                             </a>
@@ -861,12 +555,12 @@
                                                     class="lable4">on sale</span></div>
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/1.jpg"
+                                                        src="../assets/images/custom/20210414_164352-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/2.jpg"
+                                                        src="../assets/images/custom/20210414_164402-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -880,10 +574,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>sleevles white tshirt with text</h6>
                                             </a>
@@ -899,12 +590,12 @@
                                         <div class="img-wrapper">
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/27.jpg"
+                                                        src="../assets/images/custom/20210414_165505-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/28.jpg"
+                                                        src="../assets/images/custom/20210414_165451-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -918,10 +609,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>purple solid polo tshirt</h6>
                                             </a>
@@ -937,12 +625,12 @@
                                         <div class="img-wrapper">
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/27.jpg"
+                                                        src="../assets/images/custom/20210414_170609-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/28.jpg"
+                                                        src="../assets/images/custom/20210414_170456-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -956,10 +644,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                           
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>purple solid polo tshirt</h6>
                                             </a>
@@ -977,12 +662,12 @@
                                                     class="lable4">on sale</span></div>
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/1.jpg"
+                                                        src="../assets/images/custom/20210414_165623-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/2.jpg"
+                                                        src="../assets/images/custom/20210414_165629-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -996,10 +681,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>sleevles white tshirt with text</h6>
                                             </a>
@@ -1015,12 +697,12 @@
                                         <div class="img-wrapper">
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/33.jpg"
+                                                        src="../assets/images/custom/20210414_165344-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/34.jpg"
+                                                        src="../assets/images/custom/20210414_165413-min.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1034,10 +716,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>multi-color polo tshirt</h6>
                                             </a>
@@ -1055,12 +734,12 @@
                                                     class="lable4">on sale</span></div>
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/35.jpg"
+                                                        src="../assets/images/custom/20210414_163754-min-768x768-1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/36.jpg"
+                                                        src="../assets/images/custom/20210414_164023-min-768x768-1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1074,10 +753,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>Candy red solid tshirt</h6>
                                             </a>
@@ -1091,7 +767,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div id="tab-6" class="tab-content">
+                            <div id="bracelets" class="tab-content">
                                 <div class="no-slider row">
                                     <div class="product-box">
                                         <div class="img-wrapper">
@@ -1099,12 +775,12 @@
                                                     class="lable4">on sale</span></div>
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/33.jpg"
+                                                        src="../assets/images/custom/3-min-24-1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/34.jpg"
+                                                        src="../assets/images/custom/4-min-24-1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1118,10 +794,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>multi-color polo tshirt</h6>
                                             </a>
@@ -1137,12 +810,12 @@
                                         <div class="img-wrapper">
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/27.jpg"
+                                                        src="../assets/images/custom/1-min-24-1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/28.jpg"
+                                                        src="../assets/images/custom/2-min-24-1.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1156,10 +829,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>purple solid polo tshirt</h6>
                                             </a>
@@ -1175,12 +845,12 @@
                                         <div class="img-wrapper">
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/33.jpg"
+                                                        src="../assets/images/custom/2-min-5.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/34.jpg"
+                                                        src="../assets/images/custom/3-min-5.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1194,10 +864,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                           
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>multi-color polo tshirt</h6>
                                             </a>
@@ -1215,12 +882,12 @@
                                                     class="lable4">on sale</span></div>
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/1.jpg"
+                                                        src="../assets/images/custom/4-min-6.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/2.jpg"
+                                                        src="../assets/images/custom/3-min-6.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1235,9 +902,6 @@
                                             </div>
                                         </div>
                                         <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>sleevles white tshirt with text</h6>
                                             </a>
@@ -1255,12 +919,12 @@
                                                     class="lable4">on sale</span></div>
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/35.jpg"
+                                                        src="../assets/images/custom/1-min-5.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/36.jpg"
+                                                        src="../assets/images/custom/4-min-5.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1274,10 +938,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>Candy red solid tshirt</h6>
                                             </a>
@@ -1293,12 +954,12 @@
                                         <div class="img-wrapper">
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/35.jpg"
+                                                        src="../assets/images/custom/1-min-14.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/36.jpg"
+                                                        src="../assets/images/custom/3-min-14.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1312,10 +973,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                            
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>Candy red solid tshirt</h6>
                                             </a>
@@ -1333,12 +991,12 @@
                                                     class="lable4">on sale</span></div>
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/1.jpg"
+                                                        src="../assets/images/custom/1-min-21.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/2.jpg"
+                                                        src="../assets/images/custom/2-min-21.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1352,10 +1010,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                           
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>sleevles white tshirt with text</h6>
                                             </a>
@@ -1371,12 +1026,12 @@
                                         <div class="img-wrapper">
                                             <div class="front">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/27.jpg"
+                                                        src="../assets/images/custom/1-min-6.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="back">
                                                 <a href="product-page(no-sidebar).html"><img
-                                                        src="../assets/images/pro3/28.jpg"
+                                                        src="../assets/images/custom/2-min-6.jpg"
                                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                                             </div>
                                             <div class="cart-info cart-wrap">
@@ -1390,10 +1045,7 @@
                                                         aria-hidden="true"></i></a>
                                             </div>
                                         </div>
-                                        <div class="product-detail">
-                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i></div>
+                                        <div class="product-detail">                                           
                                             <a href="product-page(no-sidebar).html">
                                                 <h6>purple solid polo tshirt</h6>
                                             </a>
@@ -1407,6 +1059,298 @@
                                     </div>
                                 </div>
                             </div>
+                            <div id="earrings" class="tab-content">
+                                <div class="no-slider row">
+                                    <div class="product-box">
+                                        <div class="img-wrapper">
+                                            <div class="front">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/1-min-2-1.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="back">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/1-min-8.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="cart-info cart-wrap">
+                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
+                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
+                                                    href="javascript:void(0)" title="Add to Wishlist"><i
+                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
+                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
+                                                <a href="compare.html" title="Compare"><i class="ti-reload"
+                                                        aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="product-detail">                                            
+                                            <a href="product-page(no-sidebar).html">
+                                                <h6>purple solid polo tshirt</h6>
+                                            </a>
+                                            <h4>$50.00</h4>
+                                            <ul class="color-variant">
+                                                <li class="bg-light0"></li>
+                                                <li class="bg-light1"></li>
+                                                <li class="bg-light2"></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="product-box">
+                                        <div class="img-wrapper">
+                                            <div class="lable-block"><span class="lable3">new</span> <span
+                                                    class="lable4">on sale</span></div>
+                                            <div class="front">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/1-min-13.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="back">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/1-min-12.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="cart-info cart-wrap">
+                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
+                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
+                                                    href="javascript:void(0)" title="Add to Wishlist"><i
+                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
+                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
+                                                <a href="compare.html" title="Compare"><i class="ti-reload"
+                                                        aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="product-detail">                                            
+                                            <a href="product-page(no-sidebar).html">
+                                                <h6>sleevles white tshirt with text</h6>
+                                            </a>
+                                            <h4>$65.00</h4>
+                                            <ul class="color-variant">
+                                                <li class="bg-light0"></li>
+                                                <li class="bg-light1"></li>
+                                                <li class="bg-light2"></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="product-box">
+                                        <div class="img-wrapper">
+                                            <div class="front">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/1-min-25-1.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="back">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/1-min-22.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="cart-info cart-wrap">
+                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
+                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
+                                                    href="javascript:void(0)" title="Add to Wishlist"><i
+                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
+                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
+                                                <a href="compare.html" title="Compare"><i class="ti-reload"
+                                                        aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="product-detail">                                            
+                                            <a href="product-page(no-sidebar).html">
+                                                <h6>multi-color polo tshirt</h6>
+                                            </a>
+                                            <h4>$45.00</h4>
+                                            <ul class="color-variant">
+                                                <li class="bg-light0"></li>
+                                                <li class="bg-light1"></li>
+                                                <li class="bg-light2"></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="product-box">
+                                        <div class="img-wrapper">
+                                            <div class="lable-block"><span class="lable3">new</span> <span
+                                                    class="lable4">on sale</span></div>
+                                            <div class="front">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210414_201442-min.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="back">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210414_174357-min-1.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="cart-info cart-wrap">
+                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
+                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
+                                                    href="javascript:void(0)" title="Add to Wishlist"><i
+                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
+                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
+                                                <a href="compare.html" title="Compare"><i class="ti-reload"
+                                                        aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="product-detail">                                            
+                                            <a href="product-page(no-sidebar).html">
+                                                <h6>Candy red solid tshirt</h6>
+                                            </a>
+                                            <h4>$30.00</h4>
+                                            <ul class="color-variant">
+                                                <li class="bg-light0"></li>
+                                                <li class="bg-light1"></li>
+                                                <li class="bg-light2"></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="product-box">
+                                        <div class="img-wrapper">
+                                            <div class="lable-block"><span class="lable3">new</span> <span
+                                                    class="lable4">on sale</span></div>
+                                            <div class="front">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210424_125241-min.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="back">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210424_125511-min.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="cart-info cart-wrap">
+                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
+                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
+                                                    href="javascript:void(0)" title="Add to Wishlist"><i
+                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
+                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
+                                                <a href="compare.html" title="Compare"><i class="ti-reload"
+                                                        aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="product-detail">                                           
+                                            <a href="product-page(no-sidebar).html">
+                                                <h6>multi-color polo tshirt</h6>
+                                            </a>
+                                            <h4>$65.00</h4>
+                                            <ul class="color-variant">
+                                                <li class="bg-light0"></li>
+                                                <li class="bg-light1"></li>
+                                                <li class="bg-light2"></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="product-box">
+                                        <div class="img-wrapper">
+                                            <div class="front">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210424_173907-min.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="back">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210424_141222-min.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="cart-info cart-wrap">
+                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
+                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
+                                                    href="javascript:void(0)" title="Add to Wishlist"><i
+                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
+                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
+                                                <a href="compare.html" title="Compare"><i class="ti-reload"
+                                                        aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="product-detail">                                            
+                                            <a href="product-page(no-sidebar).html">
+                                                <h6>Candy red solid tshirt</h6>
+                                            </a>
+                                            <h4>$500.00</h4>
+                                            <ul class="color-variant">
+                                                <li class="bg-light0"></li>
+                                                <li class="bg-light1"></li>
+                                                <li class="bg-light2"></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="product-box">
+                                        <div class="img-wrapper">
+                                            <div class="lable-block"><span class="lable3">new</span> <span
+                                                    class="lable4">on sale</span></div>
+                                            <div class="front">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210424_173629-min.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="back">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210424_173440-min.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="cart-info cart-wrap">
+                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
+                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
+                                                    href="javascript:void(0)" title="Add to Wishlist"><i
+                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
+                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
+                                                <a href="compare.html" title="Compare"><i class="ti-reload"
+                                                        aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="product-detail">                                            
+                                            <a href="product-page(no-sidebar).html">
+                                                <h6>sleevles white tshirt with text</h6>
+                                            </a>
+                                            <h4>$50.00</h4>
+                                            <ul class="color-variant">
+                                                <li class="bg-light0"></li>
+                                                <li class="bg-light1"></li>
+                                                <li class="bg-light2"></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="product-box">
+                                        <div class="img-wrapper">
+                                            <div class="front">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210424_125055-min.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="back">
+                                                <a href="product-page(no-sidebar).html"><img
+                                                        src="../assets/images/custom/20210424_141556-min.jpg"
+                                                        class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                            </div>
+                                            <div class="cart-info cart-wrap">
+                                                <button data-bs-toggle="modal" data-bs-target="#addtocart"
+                                                    title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
+                                                    href="javascript:void(0)" title="Add to Wishlist"><i
+                                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                                    data-bs-toggle="modal" data-bs-target="#quick-view"
+                                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
+                                                <a href="compare.html" title="Compare"><i class="ti-reload"
+                                                        aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="product-detail">                                            
+                                            <a href="product-page(no-sidebar).html">
+                                                <h6>purple solid polo tshirt</h6>
+                                            </a>
+                                            <h4>$25.00</h4>
+                                            <ul class="color-variant">
+                                                <li class="bg-light0"></li>
+                                                <li class="bg-light1"></li>
+                                                <li class="bg-light2"></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
                         </div>
                     </div>
                 </div>

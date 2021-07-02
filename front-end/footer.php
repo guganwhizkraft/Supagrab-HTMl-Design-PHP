@@ -7,8 +7,8 @@
                         <div class="col-lg-6">
                             <div class="subscribe">
                                 <div>
-                                    <h4>KNOW IT ALL FIRST!</h4>
-                                    <p>Never Miss Anything From Multikart By Signing Up To Our Newsletter.</p>
+                                    <h4>STAY IN THE KNOW</h4>
+                                    <p>Sign up for emails to get 10% off your next purchase, the scoop on new arrivals, special sales and more.</p>
                                 </div>
                             </div>
                         </div>
@@ -21,7 +21,7 @@
                                     <input type="text" class="form-control" name="EMAIL" id="mce-EMAIL"
                                         placeholder="Enter your email" required="required">
                                 </div>
-                                <button type="submit" class="btn btn-solid" id="mc-submit">subscribe</button>
+                                <button type="submit" class="btn btn-solid" id="mc-submit">Sign Up</button>
                             </form>
                         </div>
                     </div>
@@ -36,7 +36,7 @@
                             <h4>about</h4>
                         </div>
                         <div class="footer-contant">
-                            <div class="footer-logo"><img src="../assets/images/supagrab/supagrab-logo.png" alt=""></div>
+                            <div class="footer-logo"><img src="../assets/images/custom/supagrab-logo.png" alt=""></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
                             <div class="footer-social">
@@ -53,7 +53,7 @@
                     <div class="col offset-xl-1">
                         <div class="sub-title">
                             <div class="footer-title">
-                                <h4>my account</h4>
+                                <h4>ABOUT</h4>
                             </div>
                             <div class="footer-contant">
                                 <ul>
@@ -69,7 +69,7 @@
                     <div class="col">
                         <div class="sub-title">
                             <div class="footer-title">
-                                <h4>why we choose</h4>
+                                <h4>why we chooseInfo</h4>
                             </div>
                             <div class="footer-contant">
                                 <ul>
