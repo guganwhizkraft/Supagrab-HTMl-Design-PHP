@@ -37,7 +37,7 @@
                         </div>
                         <div class="footer-contant">
                             <div class="footer-logo"><img src="../assets/images/custom/supagrab-logo.png" alt=""></div>
-                            <p>SupaGrab is a Fashion accessories and gift ilems hub. We possess the latest designs in a variety of Necklaces, Earrings, Bracelets and Pendants.</p>
+                            <p>SupaGrab is a Fashion accessories and gift items hub. We possess the latest designs in a variety of Necklaces, Earrings, Bracelets and Pendants.</p>
                             <div class="footer-social">
                                 <ul>
                                     <li><a href="https://www.facebook.com/supagrab/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -60,7 +60,7 @@
                                     <li><a href="#">Bracelets</a></li>
                                     <li><a href="#">Cosmetics</a></li>
                                     <li><a href="#">Kids</a></li>
-                                    <li><a href="#">Offers</a></li>
+                                    <li><a href="category-page(no-sidebar).php">Offers</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -72,8 +72,8 @@
                             </div>
                             <div class="footer-contant">
                                 <ul>
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="about-page.php">About Us</a></li>
+                                    <li><a href="contact.php">Contact Us</a></li>
                                     <li><a href="#">Privacy Policy</a></li>
                                     <li><a href="#">Terms and Condition</a></li>
                                     <li><a href="#">Cancellation Policy</a></li>
@@ -90,7 +90,7 @@
                                 <ul>
                                     <li><a href="#">Need Help?</a></li>
                                     <li><a href="#">Shipping Info   </a></li>
-                                    <li><a href="#">Track My Order</a></li>
+                                    <li><a href="order-tracking.php">Track My Order</a></li>
                                     <li><a href="#">Easy Returns</a></li>
                                     <li><a href="#">FAQ</a></li>
                                 </ul>

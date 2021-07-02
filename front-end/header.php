@@ -59,13 +59,13 @@
                     </div>
                     <div class="col-lg-6 text-end">
                         <ul class="header-dropdown">
-                            <li class="mobile-wishlist"><a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a>
+                            <li class="mobile-wishlist"><a href="wishlist.php"><i class="fa fa-heart" aria-hidden="true"></i></a>
                             </li>
                             <li class="onhover-dropdown mobile-account"> <i class="fa fa-user" aria-hidden="true"></i>
                                 My Account
                                 <ul class="onhover-show-div">
-                                    <li><a href="login.html">Login</a></li>
-                                    <li><a href="register.html">register</a></li>
+                                    <li><a href="login.php">Login</a></li>
+                                    <li><a href="register.php">register</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -161,6 +161,7 @@
                                                 </ul>
                                             </li>
                                             <li><a href="#">Kids</a></li>
+                                            <li><a href="coming-soon.php">rings</a></li>
                                             <li> <a href="#">Accessories</a>
                                                 <ul>
                                                     <li><a href="#">fashion jewellery</a></li>
@@ -193,7 +194,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li><a href="#">Offers</a></li>
+                                            <li><a href="category-page(no-sidebar).php">Offers</a></li>
                                             <li> <a href="#">Best Sales</a>
                                                 <ul>
                                                     <li><a href="#">makeup</a></li>
@@ -215,7 +216,7 @@
                                 </div>
                             </div>
                             <div class="brand-logo">
-                                <a href="index.html"><img src="../assets/images/custom/supagrab-logo.png"
+                                <a href="index.php"><img src="../assets/images/custom/supagrab-logo.png"
                                         class="img-fluid blur-up lazyload" alt=""></a>
                             </div>
                         </div>
@@ -228,8 +229,8 @@
                                             <div class="mobile-back text-end">Back<i class="fa fa-angle-right ps-2"
                                                     aria-hidden="true"></i></div>
                                         </li>										
-                                        <li><a href="index.html">Home</a></li>
-										<li><a href="#">OFFERS</a></li>
+                                        <li><a href="index.php">Home</a></li>
+										<li><a href="category-page(no-sidebar).php">OFFERS</a></li>
                                         <li class="mega" id="hover-cls">
                                             <a href="#">COSMETICS <div class="lable-nav">new</div></a>
                                             <ul class="mega-menu full-mega-menu">
@@ -550,51 +551,9 @@
                                 <div class="icon-nav">
                                     <ul>
                                         <li class="onhover-div mobile-search">
-                                            <div><img src="../assets/images/icon/search.png" onclick="openSearch()"
-                                                    class="img-fluid blur-up lazyload" alt=""> <i class="ti-search"
-                                                    onclick="openSearch()"></i></div>
-                                            <div id="search-overlay" class="search-overlay">
-                                                <div> <span class="closebtn" onclick="closeSearch()"
-                                                        title="Close Overlay">×</span>
-                                                    <div class="overlay-content">
-                                                        <div class="container">
-                                                            <div class="row">
-                                                                <div class="col-xl-12">
-                                                                    <form>
-                                                                        <div class="form-group">
-                                                                            <input type="text" class="form-control"
-                                                                                id="exampleInputPassword1"
-                                                                                placeholder="Search a Product">
-                                                                        </div>
-                                                                        <button type="submit" class="btn btn-primary"><i
-                                                                                class="fa fa-search"></i></button>
-                                                                    </form>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="onhover-div mobile-setting">
-                                            <div><img src="../assets/images/icon/setting.png"
-                                                    class="img-fluid blur-up lazyload" alt=""> <i
-                                                    class="ti-settings"></i></div>
-                                            <div class="show-div setting">
-                                                <h6>language</h6>
-                                                <ul>
-                                                    <li><a href="#">english</a></li>
-                                                    <li><a href="#">french</a></li>
-                                                </ul>
-                                                <h6>currency</h6>
-                                                <ul class="list-inline">
-                                                    <li><a href="#">euro</a></li>
-                                                    <li><a href="#">rupees</a></li>
-                                                    <li><a href="#">pound</a></li>
-                                                    <li><a href="#">doller</a></li>
-                                                </ul>
-                                            </div>
-                                        </li>
+                                            <div><a href="search.php"><img src="../assets/images/icon/search.png" class="img-fluid blur-up lazyload" alt=""> <i class="ti-search"
+                                                    ></i></a></div>                                            
+                                        </li>                                       
                                         <li class="onhover-div mobile-cart">
                                             <div><img src="../assets/images/icon/cart.png"
                                                     class="img-fluid blur-up lazyload" alt=""> <i
@@ -604,7 +563,7 @@
                                                 <li>
                                                     <div class="media">
                                                         <a href="#"><img alt="" class="me-3"
-                                                                src="../assets/images/fashion/product/1.jpg"></a>
+                                                                src="../assets/images/custom/20210414_174357-min-1.jpg"></a>
                                                         <div class="media-body">
                                                             <a href="#">
                                                                 <h4>item name</h4>
@@ -618,7 +577,7 @@
                                                 <li>
                                                     <div class="media">
                                                         <a href="#"><img alt="" class="me-3"
-                                                                src="../assets/images/fashion/product/2.jpg"></a>
+                                                                src="../assets/images/custom/1-min-12.jpg"></a>
                                                         <div class="media-body">
                                                             <a href="#">
                                                                 <h4>item name</h4>
@@ -635,7 +594,7 @@
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class="buttons"><a href="cart.html" class="view-cart">view
+                                                    <div class="buttons"><a href="cart.php" class="view-cart">view
                                                             cart</a> <a href="#" class="checkout">checkout</a></div>
                                                 </li>
                                             </ul>

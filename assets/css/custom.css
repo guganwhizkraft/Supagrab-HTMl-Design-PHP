@@ -78,10 +78,13 @@
     justify-content: center;
 }
 .cat_banner .container-fluid {
-    padding: 0 !important;
+    padding: 0 !important;   
     overflow-x: hidden;
 }
 .cat_banner img.img-fluid.cat_bann_img {
     width: 100%;
+}
+.bnn_content a {
+    color: #ff4c3b;
 }
 /*----- CATEGORY BANNER END HERE -----*/
