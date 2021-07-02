@@ -88,12 +88,12 @@
                                                     <div class="product-box">
                                                         <div class="img-wrapper">
                                                             <div class="front">
-                                                                <a href="#"><img src="../assets/images/custom/20210414_201442-min.jpg"
+                                                                <a href="product-page(left-image).php"><img src="../assets/images/custom/20210414_201442-min.jpg"
                                                                         class="img-fluid blur-up lazyload bg-img"
                                                                         alt=""></a>
                                                             </div>
                                                             <div class="back">
-                                                                <a href="#"><img src="../assets/images/custom/20210414_174357-min-1.jpg"
+                                                            <a href="product-page(left-image).php"><img src="../assets/images/custom/20210414_174357-min-1.jpg"
                                                                         class="img-fluid blur-up lazyload bg-img"
                                                                         alt=""></a>
                                                             </div>
@@ -112,7 +112,7 @@
                                                         </div>
                                                         <div class="product-detail">
                                                             <div>                                                              
-                                                                <a href="product-page(no-sidebar).html">
+                                                                <a href="product-page(left-image).php">
                                                                     <h6>Slim Fit Cotton Shirt</h6>
                                                                 </a>
                                                                 <p>Lorem Ipsum is simply dummy text of the printing and
@@ -135,12 +135,12 @@
                                                     <div class="product-box">
                                                         <div class="img-wrapper">
                                                             <div class="front">
-                                                                <a href="#"><img src="../assets/images/custom/20210424_173440-min.jpg"
+                                                            <a href="product-page(left-image).php"><img src="../assets/images/custom/20210424_173440-min.jpg"
                                                                         class="img-fluid blur-up lazyload bg-img"
                                                                         alt=""></a>
                                                             </div>
                                                             <div class="back">
-                                                                <a href="#"><img src="../assets/images/custom/20210424_173629-min.jpg"
+                                                            <a href="product-page(left-image).php"><img src="../assets/images/custom/20210424_173629-min.jpg"
                                                                         class="img-fluid blur-up lazyload bg-img"
                                                                         alt=""></a>
                                                             </div>
