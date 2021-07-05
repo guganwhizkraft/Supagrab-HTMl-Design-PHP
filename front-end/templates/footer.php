@@ -74,9 +74,9 @@
                             <ul>
                                 <li><a href="about-page.php">About Us</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms and Condition</a></li>
-                                <li><a href="#">Cancellation Policy</a></li>
+                                <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                                <li><a href="terms-conditions.php">Terms and Condition</a></li>
+                                <li><a href="cancellation-policy.php">Cancellation Policy</a></li>
                             </ul>
                         </div>
                     </div>
@@ -88,10 +88,8 @@
                         </div>
                         <div class="footer-contant">
                             <ul>
-                                <li><a href="#">Need Help?</a></li>
-                                <li><a href="#">Shipping Info   </a></li>
-                                <li><a href="order-tracking.php">Track My Order</a></li>
-                                <li><a href="#">Easy Returns</a></li>
+                                <li><a href="contact.php">Need Help?</a></li>
+                                <li><a href="#!">Shipping Info   </a></li>                                
                                 <li><a href="faq.php">FAQ</a></li>
                             </ul>
                         </div>

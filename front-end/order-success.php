@@ -74,8 +74,8 @@
             <div class="col-lg-6">
                 <div class="product-order">
                     <div class="row product-order-detail">
-                        <div class="col-3"><img src="../assets/images/pro3/27.jpg" alt=""
-                                                class="img-fluid  lazyload"></div>
+                        <div class="col-3">
+                            <img src="../assets/images/custom/4-min-6.jpg" alt="" class="img-fluid  lazyload"></div>
                         <div class="col-3 order_detail">
                             <div>
                                 <h4>product name</h4>
@@ -96,7 +96,7 @@
                         </div>
                     </div>
                     <div class="row product-order-detail">
-                        <div class="col-3"><img src="../assets/images/pro3/35.jpg" alt=""
+                        <div class="col-3"><img src="../assets/images/custom/20210424_141556-min.jpg" alt=""
                                                 class="img-fluid  lazyload"></div>
                         <div class="col-3 order_detail">
                             <div>
@@ -157,7 +157,7 @@
                         <div class="col-md-12">
                             <div class="delivery-sec">
                                 <h3>expected date of delivery: <span>october 22, 2018</span></h3>
-                                <a href="order-tracking.html">track order</a>
+                                <a href="order-tracking.php">track order</a>
                             </div>
                         </div>
                     </div>

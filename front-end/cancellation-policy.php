@@ -8,11 +8,11 @@
                 <div class="top-banner-wrapper">                        
                     <img src="../assets/images/custom/Supagrab-Sale-.png" class="img-fluid   cat_bann_img" alt="">
                     <div class="bnn_content">
-                        <h2>ABOUT US</h2>
+                        <h2>CANCELLATION POLICY</h2>
                         <nav aria-label="breadcrumb" class="theme-breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="index.html">HOME</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">ABOUT US</li>
+                                <li class="breadcrumb-item active" aria-current="page">CANCELLATION POLICY</li>
                             </ol>
                         </nav>
                     </div>                        
@@ -28,86 +28,14 @@
     <div class="container">
         <div class="row">           
             <div class="col-sm-12">
-                <h3 class="text-center">WELCOME TO SUPAGRAB</h3>
-                <h4>Our Mission &amp; Vision</h4>
-                <p>SupaGrab is a Fashion accessories and gift items hub. We possess the latest designs in a variety of Necklaces, Earrings, Bracelets and Pendants. Our Registered Office is Situated at Mohali, India. We are proud to hold certification from various associations. We strive to make people a little bit more gorgeous with the unique Jewelry range of our brand. SupaGrab provides online shopping throughout the world. We try to provide backend support to each of our customer as much as possible.</p><br>
-                <p>Thank you for being here and Happy Supa-Grabbing !</p>
+                <div class="needhelp"><p>Users/Customers are eligible to cancel their order in the following cases:<br>
+				1. User can cancel any order on SupaGrab website within 24 hours of the order placed if they have placed the order by mistake.<br>
+				2. User can cancel any order on SupaGrab within 24 hours of the order placed if they have changed their mind or don’t want the products any more.</p><p>For cancellations of your order, please send an email on <strong><a href="mailto:cancel@supagrab.com">cancel@supagrab.com </a></strong>with your order number.</p><h4>SupaGrab Cancellations Policy</h4><p>SupaGrab owns the right to cancel any of the orders. A few reasons for cancellation from our end usually include limitation of the product in the inventory, error in pricing, error in product information etc. We also have the right to check out for extra information for the purpose of accepting orders in a few cases. We make sure to notify you if in case your order is cancelled partially or completely or if in case any extra data is required for the purpose of accepting your order.</p><h4>Easy Returns and Exchange Policy for product purchased on www.supagrab.com:</h4><p>To make you confident about your purchase from Supagrab, we have an Easy Returns and Exchange Policy, which gives you enough time to be in no doubt that you have made the right decision of buying jewellery from SupaGrab. Should you have any problem with the jewellery piece, you can choose to return it back and claim refund or exchange within the policy time frame.</p><h4>Policy:</h4><p>For products purchased online through www.supagrab.com refund/ exchange / return shall be entertained through www.supagrab.com only and shall not be entertained at any other platform.</p><h4>Refund Policy:</h4><h5>What is the procedure for availing this Policy?</h5><p>Please email us at <a href="mailto:support@supagrab.com">support@supagrab.com</a> and place your exchange/ return request. We will create a ticket for your reference.</p><p>Secure your product with the original invoice, Jewellery box, etc. and send us message with the reference of your ticket number. Upon a quick quality check of the received product at our end, our Customer Care team would process the refund/exchange. We are fully committed to ensure that you are 100% confident and satisfied with your purchase. Therefore, we give you the flexibility of further exchanging the jewellery piece selected by you (and already exchanged once), within a period of 5 days from receiving the new jewellery piece by you. All subsequent request will taken under lifetime buyback policy.</p></div>
             </div>
         </div>
     </div>
 </section>
 <!-- about section end -->
-
-<!--Team start-->
-<section id="team" class="team section-b-space slick-default-margin ratio_asos">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <h2>Our Team</h2>
-                <div class="team-4">
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_b-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_c-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>  
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_b-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_c-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>                       
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Team ends-->
-
 
 <!-- service section -->
 <div class="container about-cls section-b-space">

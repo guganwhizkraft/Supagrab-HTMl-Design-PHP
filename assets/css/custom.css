@@ -1,4 +1,8 @@
 /*========== Custom Css Started Here ============*/
+a {
+    color: #ff4c3b;
+}
+
 /********** HOME PAGE TOP BANNER STARTED HERE *************/
 section.new_homebanner .container {
     background-image: url(../images/custom/Website-Banner-1Bg.jpg);
@@ -248,3 +252,110 @@ section.obsession_banner div.obsession_inner div {
     color: #ff4c3b;
 }
 /*----- CATEGORY BANNER END HERE -----*/
+
+/*----- ADDRESS BOOK CSS STARTED HERE ------*/
+.acc_info_sec form.theme-form,
+.address_box {
+    background-color: #f9f9f9;
+    padding: 25px;
+    margin: 20px 0 0px 0;
+    border: 1px solid #dddddd !important;
+}
+.address_box input,
+.address_box select.form-control {
+    max-height: 38px !important;
+	margin-bottom: 0px !important;
+    padding: 5px 15px !important;
+}
+.address-section img {
+    width: 60px;
+    border-radius: 50%;
+	border: 2px solid #dddddd;
+    margin-right: 20px;
+}
+ul.address-section li {
+    width: 100%;
+}
+ul.address-section li .tag {
+    background: #999999;
+    padding: 2px 5px;
+    color: #fff;
+}
+.add_info p strong {
+    color: #222222;
+    margin-right: 5px;
+}
+.address_box .form-row.row> div {
+    margin-bottom: 10px;
+}
+span.error_span {    
+    color: red;
+    font-size: 12px;
+}
+.add_info p {
+    margin-bottom: 4px;
+    color: #999999;
+}
+.add_link {
+    margin-top: 20px;
+}
+ul.address-section li:last-child {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 0;
+}
+
+ul.address-section li {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.add_link a {
+    background: #ff4c3b;
+    color: #fff;
+    padding: 8px 15px;
+    margin-right: 10px;
+    font-weight: 400;
+    height: 28px !important;
+    font-size: 14px;
+    font-family: poppins;
+    float: right;
+}
+.edit_trash_link i:hover, .edit_trash_link i:active, .edit_trash_link i:focus {
+    color: #ff4c3b;
+}
+.edit_trash_link i {
+    font-size: 22px;
+    padding-left: 15px;
+    color: #2d2a25;
+    transition: 0.2s ease-in-out;
+}
+.dashboard .product-order-detail:last-child {
+    border-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+.dashboard .product-order-detail {
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 20px;
+}
+/*----- ADDRESS BOOK CSS END HERE ------*/
+
+
+/**================================ RESPONSIVE CSS STARTED HERE ============================**/
+@media screen and (max-width: 575px){
+	body .home-bnn_inner h2 {
+		font-size: 38px;
+		margin: 0px 0 0 0 !important;
+		width: 270px;
+	}
+	body .home-bnn_inner p {
+		font-size: 32px;
+		letter-spacing: 2px;
+		line-height: 40px;
+		margin-bottom: 20px;
+		margin-top: -15px;
+	}
+	body section.new_homebanner .container {    
+		height: 380px !important;
+		padding: 50px 6px !important;
+	}

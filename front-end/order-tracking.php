@@ -9,7 +9,7 @@
                 <div class="row border-part">
                     <div class="col-xl-2 col-md-3 col-sm-4">
                         <div class="product-detail">
-                            <img src="../assets/images/fashion/pro/1.jpg" class="img-fluid  " alt="">
+                            <img src="../assets/images/custom/20210424_141556-min.jpg" class="img-fluid  " alt="">
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-5 col-sm-8">

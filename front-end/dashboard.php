@@ -10,13 +10,10 @@
                                                                                      aria-hidden="true"></i> back</span></div>
                     <div class="block-content">
                         <ul>
-                            <li class="active"><a href="#">Account Info</a></li>
-                            <li><a href="#">Address Book</a></li>
-                            <li><a href="#">My Orders</a></li>
-                            <li><a href="#">My Wishlist</a></li>
-                            <li><a href="#">Newsletter</a></li>
-                            <li><a href="#">My Account</a></li>
-                            <li><a href="#">Change Password</a></li>
+                            <li class="active"><a href="dashboard.php">Account Info</a></li>
+                            <li><a href="address-book-main.php">Address Book</a></li>
+                            <li><a href="my-orders.php">My Orders</a></li>
+                            <li><a href="wishlist.php">My Wishlist</a></li>
                             <li class="last"><a href="#">Log Out</a></li>
                         </ul>
                     </div>
@@ -42,19 +39,18 @@
                                 <div class="col-sm-6">
                                     <div class="box">
                                         <div class="box-title">
-                                            <h3>Contact Information</h3><a href="#">Edit</a>
+                                            <h3>Contact Information</h3><a href="account-info.php">Edit</a>
                                         </div>
                                         <div class="box-content">
                                             <h6>MARK JECNO</h6>
                                             <h6>MARk-JECNO@gmail.com</h6>
-                                            <h6><a href="#">Change Password</a></h6>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="box">
                                         <div class="box-title">
-                                            <h3>Newsletters</h3><a href="#">Edit</a>
+                                            <h3>Newsletters</h3><!--a href="account-info.php">Edit</a-->
                                         </div>
                                         <div class="box-content">
                                             <p>You are currently not subscribed to any newsletter.</p>
@@ -65,18 +61,18 @@
                             <div>
                                 <div class="box">
                                     <div class="box-title">
-                                        <h3>Address Book</h3><a href="#">Manage Addresses</a>
+                                        <h3>Address Book</h3><!--a href="address-book.php">Manage Addresses</a-->
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <h6>Default Billing Address</h6>
-                                            <address>You have not set a default billing address.<br><a href="#">Edit
+                                            <address>You have not set a default billing address.<br><a href="address-book.php">Edit
                                                     Address</a></address>
                                         </div>
                                         <div class="col-sm-6">
                                             <h6>Default Shipping Address</h6>
                                             <address>You have not set a default shipping address.<br><a
-                                                    href="#">Edit Address</a></address>
+                                                    href="address-book.php">Edit Address</a></address>
                                         </div>
                                     </div>
                                 </div>
