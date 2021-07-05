@@ -1,15 +1,177 @@
 /*========== Custom Css Started Here ============*/
-
-/*----- HOME SLIDER STARTED HERE -----*/
-.supa_slider .home.bg-size {
-    background-size: 100% 100% !important;
+/********** HOME PAGE TOP BANNER STARTED HERE *************/
+section.new_homebanner .container {
+    background-image: url(../images/custom/Website-Banner-1Bg.jpg);
+    background-position: center;
+    padding: 51px 0 !important;
+    height: 600px !important;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
-/*----- HOME SLIDER END HERE -----*/
+.home-bnn_inner h2 {
+    width: 490px;
+    animation: typing 2s steps(22);
+    white-space: nowrap;
+    text-align: center;
+    overflow: hidden;
+    border-right: 20px solid transparent;
+    font-family: Sacramento;
+    letter-spacing: 0;
+    text-transform: capitalize;
+    font-size: 92px;
+    position: relative;
+    z-index: 9;
+    margin: -30px 0 0px !important;
+    font-weight: 500;
+    word-spacing: 0px !important;
+    background-image: url(../images/custom/gold-textured-background-scaled.jpg);
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    background-size: contain;
+    line-height: normal !important;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 3px 0px #0000001f, 0px 2px 0px #53535300, 0px 2px 0px #dcb44f26, 0px 2px 0px #53535300;
+    -webkit-font-smoothing: antialiased;
+}
+.banner-content_home {
+    max-width: 485px;
+    margin: 0 auto;
+}
+.bgimg_button:hover, .bgimg_button:focus, .bgimg_button:active {
+    box-shadow: 0 0 10px #e5b974, 0 0 2px #e5b974, 0 0 2px #e5b974 !important;
+    text-shadow: 1px 1px 3px #ffffff4f;
+}
+.bgimg_button {
+    transition: .5s linear;
+    color: #212529 !important;
+    background-image: url(../images/custom/gold-textured-background-scaled.jpg);
+    border-radius: 0 !important;
+    background-size: cover;
+    padding: 5px;
+    font-family: Lato, sans-serif;
+    height: 70px;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 3px #0000004f;
+    width: 200px;
+    font-size: 25px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.home-bnn_inner p {
+    font-family: Poppins;
+    font-weight: bold;
+    text-align: center;
+    font-size: 92px;
+    letter-spacing: 5px;
+    line-height: 90px;
+    margin-bottom: 40px;
+    margin-top: -30px;
+    color: #ffffff;
+    background: linear-gradient(to right, #ffffff 0, #8f8f8f 10%, #ffffff 20%);
+    background-position: 0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 4s infinite linear;
+    animation-fill-mode: forwards;
+    -webkit-text-size-adjust: none;
+}
+.home-bnn_inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+section.new_homebanner div {
+    height: 100%;
+}
+.home-bnn_inner > div {
+    height: auto !important;
+    width: 100%;
+    text-align: center;
+}
+.banner_para_home {
+    max-width: 800px;
+}
+
+@-webkit-keyframes shine {
+  0% {
+    background-position: 0;
+  }
+  60% {
+    background-position: 750px;
+  }
+  100% {
+    background-position: 750px;
+  }
+}
+@keyframes shine {
+  0% {
+    background-position: 0;
+  }
+  60% {
+    background-position: 750px;
+  }
+  100% {
+    background-position: 750px;
+  }
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+    border-right: 2px solid #ddac5f;
+  }
+  80%{
+    border-right: 2px solid #ddac5f; 
+  }
+  100% {
+     border-right: 2px solid #ddac5f00;
+  }
+}
+
+/********** HOME PAGE TOP BANNER END HERE *************/
 
 /*----- HOME CENTER BANNER STARTED HERE ------*/
+section.obsession_banner {
+    margin: 0 auto;
+    background: none !important;
+    max-width: 1440px;
+}
+section.obsession_banner .container {
+    position: relative;
+    background-image: url(../images/custom/Banner-min-1.jpg);
+    background-position: center left;
+    padding-top: 51px !important;
+    height: 700px !important;
+    padding-bottom: 51px !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section.obsession_banner div {
+    height: 100% !important;
+}
+.obsession_main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+section.obsession_banner div.obsession_inner {
+    height: auto !important;
+    text-align: center;
+    max-width: 600px;
+}
+section.obsession_banner div.obsession_inner div {
+    height: auto !important;
+}
 .obsession_heading h3 {
     background: #fff !important;
-    color: #000 !important;    
+    color: #000 !important;
     letter-spacing: 8px !important;
     word-spacing: 2px !important;
     font-size: 18px !important;
@@ -21,11 +183,14 @@
     width: auto !important;
     max-width: 350px !important;
 }
+.obsession_inner {
+    text-align: center;
+}
 .banner-content h2 {
     color: #e6c194 !important;
     text-transform: uppercase !important;
     font-weight: bolder !important;
-    letter-spacing: 10px !important;    
+    letter-spacing: 10px !important;
     word-spacing: 2px !important;
     line-height: 50px !important;
     font-size: 41px !important;
@@ -57,9 +222,29 @@
     font-size: 18px !important;
     color: #000000 !important;
 }
-.center_banner .banner-contain.float-end {
-    max-width: 550px;
-    margin-left: auto;
-    margin-right: 0;
-}
 /*----- HOME CENTER BANNER END HERE ------*/
+
+/*----- CATEGORY BANNER STARTED HERE -----*/
+.bnn_content {
+    position: absolute;
+    top: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cat_banner .container-fluid {
+    padding: 0 !important;   
+    overflow-x: hidden;
+}
+.cat_banner img.img-fluid.cat_bann_img {
+    width: 100%;
+}
+.bnn_content a {
+    color: #ff4c3b;
+}
+/*----- CATEGORY BANNER END HERE -----*/
