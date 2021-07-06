@@ -8,11 +8,11 @@
                 <div class="top-banner-wrapper">                        
                     <img src="../assets/images/custom/Supagrab-Sale-.png" class="img-fluid   cat_bann_img" alt="">
                     <div class="bnn_content">
-                        <h2>ABOUT US</h2>
+                        <h2>TERMS AND CONDITION</h2>
                         <nav aria-label="breadcrumb" class="theme-breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="index.html">HOME</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">ABOUT US</li>
+                                <li class="breadcrumb-item active" aria-current="page">TERMS AND CONDITION</li>
                             </ol>
                         </nav>
                     </div>                        
@@ -26,88 +26,28 @@
 <!-- about section start -->
 <section class="about-page section-b-space">
     <div class="container">
-        <div class="row">           
+        <div class="row">            
             <div class="col-sm-12">
-                <h3 class="text-center">WELCOME TO SUPAGRAB</h3>
-                <h4>Our Mission &amp; Vision</h4>
-                <p>SupaGrab is a Fashion accessories and gift items hub. We possess the latest designs in a variety of Necklaces, Earrings, Bracelets and Pendants. Our Registered Office is Situated at Mohali, India. We are proud to hold certification from various associations. We strive to make people a little bit more gorgeous with the unique Jewelry range of our brand. SupaGrab provides online shopping throughout the world. We try to provide backend support to each of our customer as much as possible.</p><br>
-                <p>Thank you for being here and Happy Supa-Grabbing !</p>
+                <h4>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
+                </h4>
+                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+                </p>
+                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and
+                    demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot
+                    foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail
+                    in their duty through weakness of will, which is the same as saying through shrinking from toil
+                    and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our
+                    power of choice is untrammelled and when nothing prevents our being able to do what we like
+                    best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and
+                    owing to the claims of duty or the obligations of business it will frequently occur that
+                    pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in
+                    these matters to this principle of selection: he rejects pleasures to secure other greater
+                    pleasures, or else he endures pains to avoid worse pains.</p>
             </div>
         </div>
     </div>
 </section>
 <!-- about section end -->
-
-<!--Team start-->
-<section id="team" class="team section-b-space slick-default-margin ratio_asos">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <h2>Our Team</h2>
-                <div class="team-4">
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_b-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_c-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>  
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_b-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_c-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>                       
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Team ends-->
-
 
 <!-- service section -->
 <div class="container about-cls section-b-space">

@@ -1,15 +1,183 @@
 /*========== Custom Css Started Here ============*/
 
-/*----- HOME SLIDER STARTED HERE -----*/
-.supa_slider .home.bg-size {
-    background-size: 100% 100% !important;
+/********** HOME PAGE TOP BANNER STARTED HERE *************/
+section.new_homebanner {
+    padding: 0;
 }
-/*----- HOME SLIDER END HERE -----*/
+section.new_homebanner .container {
+    background-image: url(../images/custom/Website-Banner-1Bg.jpg);
+    background-position: center;
+    padding: 51px 0 !important;
+    height: 600px !important;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.home-bnn_inner h2 {
+    width: 490px;
+    animation: typing 2s steps(22);
+    white-space: nowrap;
+    text-align: center;
+    overflow: hidden;
+    border-right: 20px solid transparent;
+    font-family: Sacramento;
+    letter-spacing: 0;
+    text-transform: capitalize;
+    font-size: 92px;
+    position: relative;
+    z-index: 9;
+    margin: -30px 0 0px !important;
+    font-weight: 500;
+    word-spacing: 0px !important;
+    background-image: url(../images/custom/gold-textured-background-scaled.jpg);
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    background-size: contain;
+    line-height: normal !important;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 3px 0px #0000001f, 0px 2px 0px #53535300, 0px 2px 0px #dcb44f26, 0px 2px 0px #53535300;
+    -webkit-font-smoothing: antialiased;
+}
+.banner-content_home {
+    max-width: 485px;
+    margin: 0 auto;
+}
+.bgimg_button:hover, .bgimg_button:focus, .bgimg_button:active {
+    box-shadow: 0 0 10px #e5b974, 0 0 2px #e5b974, 0 0 2px #e5b974 !important;
+    text-shadow: 1px 1px 3px #ffffff4f !important;
+	border-color: transparent !important;
+}
+.bgimg_button {
+    transition: .5s linear;
+    color: #212529 !important;
+    background-image: url(../images/custom/gold-textured-background-scaled.jpg) !important;
+    border-radius: 0 !important;
+    background-size: cover;
+    padding: 5px;
+    font-family: Heading Pro Trial;
+    height: 70px;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 3px #0000004f;
+    width: 200px;
+    font-size: 32px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.home-bnn_inner p {
+    font-family: Poppins;
+    font-weight: bold;
+    text-align: center;
+    font-size: 92px;
+    letter-spacing: 5px;
+    line-height: 90px;
+    margin-bottom: 40px;
+    margin-top: -30px;
+    color: #ffffff;
+    background: linear-gradient(to right, #ffffff 0, #8f8f8f 10%, #ffffff 20%);
+    background-position: 0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 4s infinite linear;
+    animation-fill-mode: forwards;
+    -webkit-text-size-adjust: none;
+}
+.home-bnn_inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+section.new_homebanner div {
+    height: 100%;
+}
+.home-bnn_inner > div {
+    height: auto !important;
+    width: 100%;
+    text-align: center;
+}
+.banner_para_home {
+    max-width: 820px;
+}
+
+@-webkit-keyframes shine {
+  0% {
+    background-position: 0;
+  }
+  60% {
+    background-position: 750px;
+  }
+  100% {
+    background-position: 750px;
+  }
+}
+@keyframes shine {
+  0% {
+    background-position: 0;
+  }
+  60% {
+    background-position: 750px;
+  }
+  100% {
+    background-position: 750px;
+  }
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+    border-right: 2px solid #ddac5f;
+  }
+  80%{
+    border-right: 2px solid #ddac5f; 
+  }
+  100% {
+     border-right: 2px solid #ddac5f00;
+  }
+}
+
+/********** HOME PAGE TOP BANNER END HERE *************/
 
 /*----- HOME CENTER BANNER STARTED HERE ------*/
+section.obsession_banner {
+    margin: 0 auto;
+	padding-top: 0 !important;
+    background: none !important;
+    max-width: 1440px;
+}
+section.obsession_banner .container {
+    position: relative;
+    background-image: url(../images/custom/Banner-min-1.jpg);
+    background-position: center left;
+    padding-top: 51px !important;
+    height: 700px !important;
+    padding-bottom: 51px !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section.obsession_banner div {
+    height: 100% !important;
+}
+.obsession_main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+section.obsession_banner div.obsession_inner {
+    height: auto !important;
+    text-align: center;
+    max-width: 600px;
+}
+section.obsession_banner div.obsession_inner div {
+    height: auto !important;
+}
 .obsession_heading h3 {
     background: #fff !important;
-    color: #000 !important;    
+    color: #000 !important;
     letter-spacing: 8px !important;
     word-spacing: 2px !important;
     font-size: 18px !important;
@@ -21,11 +189,14 @@
     width: auto !important;
     max-width: 350px !important;
 }
+.obsession_inner {
+    text-align: center;
+}
 .banner-content h2 {
     color: #e6c194 !important;
     text-transform: uppercase !important;
     font-weight: bolder !important;
-    letter-spacing: 10px !important;    
+    letter-spacing: 10px !important;
     word-spacing: 2px !important;
     line-height: 50px !important;
     font-size: 41px !important;
@@ -57,11 +228,6 @@
     font-size: 18px !important;
     color: #000000 !important;
 }
-.center_banner .banner-contain.float-end {
-    max-width: 550px;
-    margin-left: auto;
-    margin-right: 0;
-}
 /*----- HOME CENTER BANNER END HERE ------*/
 
 /*----- CATEGORY BANNER STARTED HERE -----*/
@@ -83,8 +249,187 @@
 }
 .cat_banner img.img-fluid.cat_bann_img {
     width: 100%;
+    object-fit: cover;
+    min-height: 150px;
 }
 .bnn_content a {
-    color: #ff4c3b;
+    color: var(--theme-deafult);
 }
 /*----- CATEGORY BANNER END HERE -----*/
+
+/*----- ADDRESS BOOK CSS STARTED HERE ------*/
+.address-book_sec input,
+.address-book_sec select.form-control {
+    max-height: 38px !important;
+	margin-bottom: 0px !important;
+    padding: 5px 15px !important;
+}
+.address-section img {
+    width: 60px;
+    border-radius: 50%;
+	border: 2px solid #dddddd;
+    margin-right: 20px;
+}
+ul.address-section li {
+    width: 100%;
+}
+ul.address-section li .tag {
+    background: #999999;
+    padding: 2px 5px;
+    color: #fff;
+}
+.add_info p strong {
+    color: #222222;
+    margin-right: 5px;
+}
+.address-book_sec .form-row.row> div {
+    margin-bottom: 10px;
+}
+span.error_span {    
+    color: red;
+    font-size: 12px;
+}
+.add_info p {
+    margin-bottom: 4px;
+    color: #999999;
+}
+.add_link {
+    margin-top: 20px;
+}
+ul.address-section li:last-child {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 0;
+}
+
+ul.address-section li {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.add_link a {
+    color: #fff;
+    border-color: var(--theme-deafult);
+    background-image: linear-gradient(30deg, #060606 50%, transparent 50%);
+    padding: 7px 15px;
+    margin-right: 10px;
+    font-weight: 400;
+    height: 35px !important;
+    font-size: 14px;
+    font-family: poppins;
+    float: right;
+}
+.edit_trash_link i:hover, .edit_trash_link i:active, .edit_trash_link i:focus {
+    color: var(--theme-deafult);;
+}
+.edit_trash_link i {
+    font-size: 22px;
+    padding-left: 15px;
+	color: #999999;
+    transition: 0.2s ease-in-out;
+}
+.dashboard .product-order-detail:last-child {
+    border-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+.dashboard .product-order-detail {
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 20px;
+}
+/*----- ADDRESS BOOK CSS END HERE ------*/
+
+/*======== CHANGE COLOR THEME CSS STARTED HERE (GOBAL CSS) ==========*/
+a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
+    border-color: var(--theme-deafult);
+    background-image: linear-gradient(30deg, #060606 50%, transparent 50%);
+}
+.tap-top,
+.cart_qty_cls{
+	background: var(--theme-deafult);
+}
+.theme-color-1 {
+    --theme-deafult: #060606;
+}
+.dashboard-left .block-content ul li.active {    
+    padding-left: 10px;
+}
+.dashboard .box a {    
+    font-weight: 600;
+}
+.dashboard-left .block-content ul li.active ,
+.dashboard .box a , a,a:hover,
+.footer-social i:hover, .social-white i:hover,
+.top-header .header-contact li i {
+    color: var(--theme-deafult);
+}
+.theme-tab .tab-title li.current a, .theme-tab .tab-title2 li.current a {
+    border-bottom: 1px solid #060606;
+    padding-bottom: 5px;
+}
+.imm-grayfrm_box {
+    background-color: #f8f8f8;
+    padding: 25px;
+    margin: 20px 0 0px 0;
+    border: 1px solid #f8f8f8!important;
+    box-shadow: 0 0 2px 2px #f1f1f1;
+}
+/*========== CHANGE COLOR THEME CSS END HERE (GOBAL CSS) ===========*/
+
+/**================================ RESPONSIVE CSS STARTED HERE ============================**/
+
+@media screen and (max-width: 991px){
+	.single_prod_pg .collection-wrapper .order-up {
+		order: unset !important;
+		-webkit-box-ordinal-group: unset;
+		-ms-flex-order: unset;
+	}
+	.top-banner-wrapper ol {
+		padding: 0;
+	}
+	.top-banner-wrapper h1 {
+		font-size: 34px;
+	}
+}
+@media screen and (max-width: 767px){
+	.top-banner-wrapper ol {
+		padding: 0;
+	}
+	.top-banner-wrapper h1 {
+		font-size: 28px;
+	}
+	.footer-logo img {
+		width: 150px;
+	}	
+	.brand-logo img {
+		max-width: 220px;
+	}
+}
+@media screen and (max-width: 577px){
+	.brand-logo img {
+		max-width: 180px !important;
+	}
+	.brand-logo {
+		position: relative;
+		padding: 0 0 !important;
+	}
+}
+@media screen and (max-width: 575px){	
+	body .home-bnn_inner h2 {
+		font-size: 38px;
+		margin: 0px 0 0 0 !important;
+		width: 270px;
+	}
+	body .home-bnn_inner p {
+		font-size: 32px;
+		letter-spacing: 2px;
+		line-height: 40px;
+		margin-bottom: 20px;
+		margin-top: -15px;
+	}
+	body section.new_homebanner .container {    
+		height: 380px !important;
+		padding: 50px 6px !important;
+	}
+	
+	
+/**================================ RESPONSIVE CSS END HERE ============================**/

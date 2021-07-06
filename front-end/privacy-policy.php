@@ -8,11 +8,11 @@
                 <div class="top-banner-wrapper">                        
                     <img src="../assets/images/custom/Supagrab-Sale-.png" class="img-fluid   cat_bann_img" alt="">
                     <div class="bnn_content">
-                        <h2>ABOUT US</h2>
+                        <h2>PRIVACY POLICY</h2>
                         <nav aria-label="breadcrumb" class="theme-breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="index.html">HOME</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">ABOUT US</li>
+                                <li class="breadcrumb-item active" aria-current="page">PRIVACY POLICY</li>
                             </ol>
                         </nav>
                     </div>                        
@@ -23,90 +23,26 @@
 </div>
 <!-- banner end -->
 
-<!-- about section start -->
+<!-- pp section start -->
 <section class="about-page section-b-space">
     <div class="container">
-        <div class="row">           
+        <div class="row">            
             <div class="col-sm-12">
-                <h3 class="text-center">WELCOME TO SUPAGRAB</h3>
-                <h4>Our Mission &amp; Vision</h4>
-                <p>SupaGrab is a Fashion accessories and gift items hub. We possess the latest designs in a variety of Necklaces, Earrings, Bracelets and Pendants. Our Registered Office is Situated at Mohali, India. We are proud to hold certification from various associations. We strive to make people a little bit more gorgeous with the unique Jewelry range of our brand. SupaGrab provides online shopping throughout the world. We try to provide backend support to each of our customer as much as possible.</p><br>
-                <p>Thank you for being here and Happy Supa-Grabbing !</p>
+                <div class="needhelp">
+					<p>SupaGrab may as a result of your interaction with the website collect directly or indirectly nominative personal information about you, sometimes through the use of on-line or off-line forms. This information will be stored in and processed by SupaGrab and/or its service providers or consultants information systems. The providing of some personal data may be mandatory in order to process your requests.</p>
+					<p>The data collected are to be used mainly for the rendering services to you. These data can also be used to keep you informed advise them of events, actions or publications that might arouse your interest.</p>
+					<p>Personal data, which may enable indirect identification, may also be collected and processed in order to better manage your connection and browsing.</p>
+					<p>To contact you via email facsimile, phone or text message, to deliver certain services or information you have requested.</p>
+					<h4>MEDIA</h4>
+					<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+					<h4>WHAT RIGHTS YOU HAVE OVER YOUR DATA</h4>
+					<p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+				</div>
             </div>
         </div>
     </div>
 </section>
-<!-- about section end -->
-
-<!--Team start-->
-<section id="team" class="team section-b-space slick-default-margin ratio_asos">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <h2>Our Team</h2>
-                <div class="team-4">
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_b-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_c-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>  
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_b-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_c-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>
-                    <div>
-                        <div>
-                            <img src="../assets/images/custom/about_team_a-min.png" class="img-fluid   bg-img" alt="">
-                        </div>
-                        <h4>Hileri Keol</h4>
-                        <h6>CEo & Founder At Company</h6>
-                    </div>                       
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Team ends-->
+<!-- pp section end -->
 
 
 <!-- service section -->
