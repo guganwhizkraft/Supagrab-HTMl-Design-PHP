@@ -1,11 +1,11 @@
 <?php include_once 'templates/header.php'; ?>
 <!-- personal deatail section start -->
-<section class="contact-page register-page">
+<section class="contact-page register-page profile_pg">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
                 <h3>PERSONAL DETAIL</h3>
-                <form class="theme-form">
+                <form class="theme-form imm-grayfrm_box">
                     <div class="form-row row">
                         <div class="col-md-6">
                             <label for="name">First Name</label>
@@ -40,12 +40,12 @@
 
 
 <!-- address section start -->
-<section class="contact-page register-page section-b-space">
+<section class="contact-page register-page section-b-space profile_section">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
                 <h3>SHIPPING ADDRESS</h3>
-                <form class="theme-form">
+                <form class="theme-form imm-grayfrm_box">
                     <div class="form-row row">
                         <div class="col-md-6">
                             <label for="name">flat / plot</label>

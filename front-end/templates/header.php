@@ -38,6 +38,7 @@
 
         <!-----\\ CUSTOM CSS FILE \\------>
         <link rel="stylesheet" type="text/css" href="../assets/css/custom.css">
+        <link rel="stylesheet" type="text/css" href="../assets/css/custom-fonts.css">
 
     </head>
 

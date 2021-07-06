@@ -1,6 +1,6 @@
 <?php include_once 'templates/header.php'; ?>
 <!-- section start -->
-<section class="section-b-space">
+<section class="section-b-space address_book_pg">
     <div class="container">
         <div class="row">
             <div class="col-lg-3">
@@ -29,7 +29,7 @@
                             <p>Hello, MARK JECNO !</p>                           
                         </div>
                         <div class="address-book_sec">                            
-                            <div class="shippingaddress-changes address_box">
+                            <div class="shippingaddress-changes imm-grayfrm_box">
                                 <form class="theme-form">
                                     <div class="form-row row">
                                         <div class="col-md-12">

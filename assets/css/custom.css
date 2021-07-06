@@ -1,9 +1,9 @@
 /*========== Custom Css Started Here ============*/
-a {
-    color: #ff4c3b;
-}
 
 /********** HOME PAGE TOP BANNER STARTED HERE *************/
+section.new_homebanner {
+    padding: 0;
+}
 section.new_homebanner .container {
     background-image: url(../images/custom/Website-Banner-1Bg.jpg);
     background-position: center;
@@ -43,21 +43,22 @@ section.new_homebanner .container {
 }
 .bgimg_button:hover, .bgimg_button:focus, .bgimg_button:active {
     box-shadow: 0 0 10px #e5b974, 0 0 2px #e5b974, 0 0 2px #e5b974 !important;
-    text-shadow: 1px 1px 3px #ffffff4f;
+    text-shadow: 1px 1px 3px #ffffff4f !important;
+	border-color: transparent !important;
 }
 .bgimg_button {
     transition: .5s linear;
     color: #212529 !important;
-    background-image: url(../images/custom/gold-textured-background-scaled.jpg);
+    background-image: url(../images/custom/gold-textured-background-scaled.jpg) !important;
     border-radius: 0 !important;
     background-size: cover;
     padding: 5px;
-    font-family: Lato, sans-serif;
+    font-family: Heading Pro Trial;
     height: 70px;
     letter-spacing: 2px;
     text-shadow: 1px 1px 3px #0000004f;
     width: 200px;
-    font-size: 25px;
+    font-size: 32px;
     font-weight: 800;
     display: flex;
     align-items: center;
@@ -98,7 +99,7 @@ section.new_homebanner div {
     text-align: center;
 }
 .banner_para_home {
-    max-width: 800px;
+    max-width: 820px;
 }
 
 @-webkit-keyframes shine {
@@ -142,6 +143,7 @@ section.new_homebanner div {
 /*----- HOME CENTER BANNER STARTED HERE ------*/
 section.obsession_banner {
     margin: 0 auto;
+	padding-top: 0 !important;
     background: none !important;
     max-width: 1440px;
 }
@@ -247,22 +249,17 @@ section.obsession_banner div.obsession_inner div {
 }
 .cat_banner img.img-fluid.cat_bann_img {
     width: 100%;
+    object-fit: cover;
+    min-height: 150px;
 }
 .bnn_content a {
-    color: #ff4c3b;
+    color: var(--theme-deafult);
 }
 /*----- CATEGORY BANNER END HERE -----*/
 
 /*----- ADDRESS BOOK CSS STARTED HERE ------*/
-.acc_info_sec form.theme-form,
-.address_box {
-    background-color: #f9f9f9;
-    padding: 25px;
-    margin: 20px 0 0px 0;
-    border: 1px solid #dddddd !important;
-}
-.address_box input,
-.address_box select.form-control {
+.address-book_sec input,
+.address-book_sec select.form-control {
     max-height: 38px !important;
 	margin-bottom: 0px !important;
     padding: 5px 15px !important;
@@ -285,7 +282,7 @@ ul.address-section li .tag {
     color: #222222;
     margin-right: 5px;
 }
-.address_box .form-row.row> div {
+.address-book_sec .form-row.row> div {
     margin-bottom: 10px;
 }
 span.error_span {    
@@ -311,23 +308,24 @@ ul.address-section li {
     margin-bottom: 20px;
 }
 .add_link a {
-    background: #ff4c3b;
     color: #fff;
-    padding: 8px 15px;
+    border-color: var(--theme-deafult);
+    background-image: linear-gradient(30deg, #060606 50%, transparent 50%);
+    padding: 7px 15px;
     margin-right: 10px;
     font-weight: 400;
-    height: 28px !important;
+    height: 35px !important;
     font-size: 14px;
     font-family: poppins;
     float: right;
 }
 .edit_trash_link i:hover, .edit_trash_link i:active, .edit_trash_link i:focus {
-    color: #ff4c3b;
+    color: var(--theme-deafult);;
 }
 .edit_trash_link i {
     font-size: 22px;
     padding-left: 15px;
-    color: #2d2a25;
+	color: #999999;
     transition: 0.2s ease-in-out;
 }
 .dashboard .product-order-detail:last-child {
@@ -340,9 +338,82 @@ ul.address-section li {
 }
 /*----- ADDRESS BOOK CSS END HERE ------*/
 
+/*======== CHANGE COLOR THEME CSS STARTED HERE (GOBAL CSS) ==========*/
+a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
+    border-color: var(--theme-deafult);
+    background-image: linear-gradient(30deg, #060606 50%, transparent 50%);
+}
+.tap-top,
+.cart_qty_cls{
+	background: var(--theme-deafult);
+}
+.theme-color-1 {
+    --theme-deafult: #060606;
+}
+.dashboard-left .block-content ul li.active {    
+    padding-left: 10px;
+}
+.dashboard .box a {    
+    font-weight: 600;
+}
+.dashboard-left .block-content ul li.active ,
+.dashboard .box a , a,a:hover,
+.footer-social i:hover, .social-white i:hover,
+.top-header .header-contact li i {
+    color: var(--theme-deafult);
+}
+.theme-tab .tab-title li.current a, .theme-tab .tab-title2 li.current a {
+    border-bottom: 1px solid #060606;
+    padding-bottom: 5px;
+}
+.imm-grayfrm_box {
+    background-color: #f8f8f8;
+    padding: 25px;
+    margin: 20px 0 0px 0;
+    border: 1px solid #f8f8f8!important;
+    box-shadow: 0 0 2px 2px #f1f1f1;
+}
+/*========== CHANGE COLOR THEME CSS END HERE (GOBAL CSS) ===========*/
 
 /**================================ RESPONSIVE CSS STARTED HERE ============================**/
-@media screen and (max-width: 575px){
+
+@media screen and (max-width: 991px){
+	.single_prod_pg .collection-wrapper .order-up {
+		order: unset !important;
+		-webkit-box-ordinal-group: unset;
+		-ms-flex-order: unset;
+	}
+	.top-banner-wrapper ol {
+		padding: 0;
+	}
+	.top-banner-wrapper h1 {
+		font-size: 34px;
+	}
+}
+@media screen and (max-width: 767px){
+	.top-banner-wrapper ol {
+		padding: 0;
+	}
+	.top-banner-wrapper h1 {
+		font-size: 28px;
+	}
+	.footer-logo img {
+		width: 150px;
+	}	
+	.brand-logo img {
+		max-width: 220px;
+	}
+}
+@media screen and (max-width: 577px){
+	.brand-logo img {
+		max-width: 180px !important;
+	}
+	.brand-logo {
+		position: relative;
+		padding: 0 0 !important;
+	}
+}
+@media screen and (max-width: 575px){	
 	body .home-bnn_inner h2 {
 		font-size: 38px;
 		margin: 0px 0 0 0 !important;
@@ -359,3 +430,6 @@ ul.address-section li {
 		height: 380px !important;
 		padding: 50px 6px !important;
 	}
+	
+	
+/**================================ RESPONSIVE CSS END HERE ============================**/

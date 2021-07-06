@@ -24,7 +24,7 @@
 
 
 <!-- section start -->
-<section class="section-b-space ratio_asos">
+<section class="section-b-space ratio_asos cat_listing_pg">
     <div class="collection-wrapper">
         <div class="container">
             <div class="row">
@@ -84,7 +84,7 @@
                                     </div>
                                     <div class="product-wrapper-grid">
                                         <div class="row margin-res">
-                                            <div class="col-xl-3 col-6 col-grid-box">
+                                            <div class="col-xl-3 col-md-3 col-6 col-grid-box">
                                                 <div class="product-box">
                                                     <div class="img-wrapper">
                                                         <div class="front">
@@ -102,12 +102,7 @@
                                                                     data-bs-target="#addtocart" title="Add to cart"><i
                                                                     class="ti-shopping-cart"></i></button> <a
                                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                                    class="ti-heart" aria-hidden="true"></i></a> <a
-                                                                href="#" data-bs-toggle="modal"
-                                                                data-bs-target="#quick-view" title="Quick View"><i
-                                                                    class="ti-search" aria-hidden="true"></i></a> <a
-                                                                href="compare.html" title="Compare"><i
-                                                                    class="ti-reload" aria-hidden="true"></i></a>
+                                                                    class="ti-heart" aria-hidden="true"></i></a> 
                                                         </div>
                                                     </div>
                                                     <div class="product-detail">
@@ -121,7 +116,7 @@
                                                                 when an unknown printer took a galley
                                                                 of type and scrambled it to make a type specimen
                                                                 book</p>
-                                                            <h4>$500.00</h4>
+                                                            <h4>$500.00 <del>$600.00</del></h4>
                                                             <ul class="color-variant">
                                                                 <li class="bg-light0"></li>
                                                                 <li class="bg-light1"></li>
@@ -131,7 +126,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xl-3 col-6 col-grid-box">
+                                            <div class="col-xl-3 col-md-3 col-6 col-grid-box">
                                                 <div class="product-box">
                                                     <div class="img-wrapper">
                                                         <div class="front">
@@ -149,12 +144,7 @@
                                                                     data-bs-target="#addtocart" title="Add to cart"><i
                                                                     class="ti-shopping-cart"></i></button> <a
                                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                                    class="ti-heart" aria-hidden="true"></i></a> <a
-                                                                href="#" data-bs-toggle="modal"
-                                                                data-bs-target="#quick-view" title="Quick View"><i
-                                                                    class="ti-search" aria-hidden="true"></i></a> <a
-                                                                href="compare.html" title="Compare"><i
-                                                                    class="ti-reload" aria-hidden="true"></i></a>
+                                                                    class="ti-heart" aria-hidden="true"></i></a>
                                                         </div>
                                                     </div>
                                                     <div class="product-detail">                                                            
@@ -167,7 +157,7 @@
                                                             when an unknown printer took a galley
                                                             of type and scrambled it to make a type specimen book
                                                         </p>
-                                                        <h4>$500.00</h4>
+                                                        <h4>$500.00 <del>$600.00</del></h4>
                                                         <ul class="color-variant">
                                                             <li class="bg-light0"></li>
                                                             <li class="bg-light1"></li>
@@ -176,7 +166,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xl-3 col-6 col-grid-box">
+                                            <div class="col-xl-3 col-md-3 col-6 col-grid-box">
                                                 <div class="product-box">
                                                     <div class="img-wrapper">
                                                         <div class="front">
@@ -194,12 +184,7 @@
                                                                     data-bs-target="#addtocart" title="Add to cart"><i
                                                                     class="ti-shopping-cart"></i></button> <a
                                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                                    class="ti-heart" aria-hidden="true"></i></a> <a
-                                                                href="#" data-bs-toggle="modal"
-                                                                data-bs-target="#quick-view" title="Quick View"><i
-                                                                    class="ti-search" aria-hidden="true"></i></a> <a
-                                                                href="compare.html" title="Compare"><i
-                                                                    class="ti-reload" aria-hidden="true"></i></a>
+                                                                    class="ti-heart" aria-hidden="true"></i></a>
                                                         </div>
                                                     </div>
                                                     <div class="product-detail">                                                           
@@ -221,7 +206,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xl-3 col-6 col-grid-box">
+                                            <div class="col-xl-3 col-md-3 col-6 col-grid-box">
                                                 <div class="product-box">
                                                     <div class="img-wrapper">
                                                         <div class="front">
@@ -239,12 +224,7 @@
                                                                     data-bs-target="#addtocart" title="Add to cart"><i
                                                                     class="ti-shopping-cart"></i></button> <a
                                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                                    class="ti-heart" aria-hidden="true"></i></a> <a
-                                                                href="#" data-bs-toggle="modal"
-                                                                data-bs-target="#quick-view" title="Quick View"><i
-                                                                    class="ti-search" aria-hidden="true"></i></a> <a
-                                                                href="compare.html" title="Compare"><i
-                                                                    class="ti-reload" aria-hidden="true"></i></a>
+                                                                    class="ti-heart" aria-hidden="true"></i></a>
                                                         </div>
                                                     </div>
                                                     <div class="product-detail">                                                           
@@ -257,7 +237,7 @@
                                                             when an unknown printer took a galley
                                                             of type and scrambled it to make a type specimen book
                                                         </p>
-                                                        <h4>$500.00</h4>
+                                                        <h4>$500.00 <del>$600.00</del></h4>
                                                         <ul class="color-variant">
                                                             <li class="bg-light0"></li>
                                                             <li class="bg-light1"></li>
@@ -266,7 +246,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xl-3 col-6 col-grid-box">
+                                            <div class="col-xl-3 col-md-3 col-6 col-grid-box">
                                                 <div class="product-box">
                                                     <div class="img-wrapper">
                                                         <div class="front">
@@ -284,12 +264,7 @@
                                                                     data-bs-target="#addtocart" title="Add to cart"><i
                                                                     class="ti-shopping-cart"></i></button> <a
                                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                                    class="ti-heart" aria-hidden="true"></i></a> <a
-                                                                href="#" data-bs-toggle="modal"
-                                                                data-bs-target="#quick-view" title="Quick View"><i
-                                                                    class="ti-search" aria-hidden="true"></i></a> <a
-                                                                href="compare.html" title="Compare"><i
-                                                                    class="ti-reload" aria-hidden="true"></i></a>
+                                                                    class="ti-heart" aria-hidden="true"></i></a>
                                                         </div>
                                                     </div>
                                                     <div class="product-detail">                                                          
@@ -311,7 +286,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xl-3 col-6 col-grid-box">
+                                            <div class="col-xl-3 col-md-3 col-6 col-grid-box">
                                                 <div class="product-box">
                                                     <div class="img-wrapper">
                                                         <div class="front">
@@ -329,12 +304,7 @@
                                                                     data-bs-target="#addtocart" title="Add to cart"><i
                                                                     class="ti-shopping-cart"></i></button> <a
                                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                                    class="ti-heart" aria-hidden="true"></i></a> <a
-                                                                href="#" data-bs-toggle="modal"
-                                                                data-bs-target="#quick-view" title="Quick View"><i
-                                                                    class="ti-search" aria-hidden="true"></i></a> <a
-                                                                href="compare.html" title="Compare"><i
-                                                                    class="ti-reload" aria-hidden="true"></i></a>
+                                                                    class="ti-heart" aria-hidden="true"></i></a>
                                                         </div>
                                                     </div>
                                                     <div class="product-detail">                                                           
@@ -347,7 +317,7 @@
                                                             when an unknown printer took a galley
                                                             of type and scrambled it to make a type specimen book
                                                         </p>
-                                                        <h4>$500.00</h4>
+                                                        <h4>$500.00 <del>$600.00</del></h4>
                                                         <ul class="color-variant">
                                                             <li class="bg-light0"></li>
                                                             <li class="bg-light1"></li>
@@ -356,7 +326,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xl-3 col-6 col-grid-box">
+                                            <div class="col-xl-3 col-md-3 col-6 col-grid-box">
                                                 <div class="product-box">
                                                     <div class="img-wrapper">
                                                         <div class="front">
@@ -374,12 +344,7 @@
                                                                     data-bs-target="#addtocart" title="Add to cart"><i
                                                                     class="ti-shopping-cart"></i></button> <a
                                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                                    class="ti-heart" aria-hidden="true"></i></a> <a
-                                                                href="#" data-bs-toggle="modal"
-                                                                data-bs-target="#quick-view" title="Quick View"><i
-                                                                    class="ti-search" aria-hidden="true"></i></a> <a
-                                                                href="compare.html" title="Compare"><i
-                                                                    class="ti-reload" aria-hidden="true"></i></a>
+                                                                    class="ti-heart" aria-hidden="true"></i></a>
                                                         </div>
                                                     </div>
                                                     <div class="product-detail">                                                           
@@ -392,7 +357,7 @@
                                                             when an unknown printer took a galley
                                                             of type and scrambled it to make a type specimen book
                                                         </p>
-                                                        <h4>$500.00</h4>
+                                                        <h4>$500.00 <del>$600.00</del></h4>
                                                         <ul class="color-variant">
                                                             <li class="bg-light0"></li>
                                                             <li class="bg-light1"></li>
@@ -401,7 +366,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xl-3 col-6 col-grid-box">
+                                            <div class="col-xl-3 col-md-3 col-6 col-grid-box">
                                                 <div class="product-box">
                                                     <div class="img-wrapper">
                                                         <div class="front">
@@ -419,12 +384,7 @@
                                                                     data-bs-target="#addtocart" title="Add to cart"><i
                                                                     class="ti-shopping-cart"></i></button> <a
                                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                                    class="ti-heart" aria-hidden="true"></i></a> <a
-                                                                href="#" data-bs-toggle="modal"
-                                                                data-bs-target="#quick-view" title="Quick View"><i
-                                                                    class="ti-search" aria-hidden="true"></i></a> <a
-                                                                href="compare.html" title="Compare"><i
-                                                                    class="ti-reload" aria-hidden="true"></i></a>
+                                                                    class="ti-heart" aria-hidden="true"></i></a>
                                                         </div>
                                                     </div>
                                                     <div class="product-detail">                                                            
@@ -437,7 +397,7 @@
                                                             when an unknown printer took a galley
                                                             of type and scrambled it to make a type specimen book
                                                         </p>
-                                                        <h4>$500.00</h4>
+                                                        <h4>$500.00 <del>$600.00</del></h4>
                                                         <ul class="color-variant">
                                                             <li class="bg-light0"></li>
                                                             <li class="bg-light1"></li>

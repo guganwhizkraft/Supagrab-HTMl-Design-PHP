@@ -1,6 +1,6 @@
 <?php include_once 'templates/header.php'; ?>
 <!-- section start -->
-<section class="section-b-space">
+<section class="section-b-space account_info_pg">
     <div class="container">
         <div class="row">
             <div class="col-lg-3">
@@ -28,7 +28,7 @@
 						<div class="welcome-msg">
                             <p>Hello, MARK JECNO !</p>                           
                         </div>
-                        <form class="theme-form">
+                        <form class="theme-form imm-grayfrm_box">
                             <div class="form-row row">
                                 <div class="col-md-6 pb-3">
                                     <label for="name">First Name</label>

@@ -50,20 +50,14 @@
                                 </button>
                                 <a href="javascript:void(0)" title="Add to Wishlist">
                                     <i class="ti-heart" aria-hidden="true"></i>
-                                </a>
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View">
-                                    <i class="ti-search" aria-hidden="true"></i>
-                                </a>
-                                <a href="compare.html" title="Compare">
-                                    <i class="ti-reload" aria-hidden="true"></i>
-                                </a>
+                                </a>                                
                             </div>
                         </div>
                         <div class="product-detail">                                
                             <a href="product-page(left-image).php">
                                 <h6>Purple polo tshirt</h6>
                             </a>
-                            <h4>$20.00</h4>
+                            <h4>$20.00 <del>$30.00</del></h4>
                             <ul class="color-variant">
                                 <li class="bg-light0"></li>
                                 <li class="bg-light1"></li>
@@ -87,11 +81,7 @@
                             <div class="cart-info cart-wrap">
                                 <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                         class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload"
-                                                                       aria-hidden="true"></i></a>
+                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> 
                             </div>
                         </div>
                         <div class="product-detail">                               
@@ -121,18 +111,14 @@
                             <div class="cart-info cart-wrap">
                                 <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                         class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload"
-                                                                       aria-hidden="true"></i></a>
+                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> 
                             </div>
                         </div>
                         <div class="product-detail">                                
                             <a href="product-page(left-image).php">
                                 <h6>multi color polo tshirt</h6>
                             </a>
-                            <h4>$65.00</h4>
+                            <h4>$65.00 <del>$70.00</del></h4>
                             <ul class="color-variant">
                                 <li class="bg-light0"></li>
                                 <li class="bg-light1"></li>
@@ -153,18 +139,14 @@
                             <div class="cart-info cart-wrap">
                                 <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                         class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload"
-                                                                       aria-hidden="true"></i></a>
+                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> 
                             </div>
                         </div>
                         <div class="product-detail">                                
                             <a href="product-page(left-image).php">
                                 <h6>Candy red solid tshirt</h6>
                             </a>
-                            <h4>$89.00</h4>
+                            <h4>$89.00 <del>$95.00</del></h4>
                             <ul class="color-variant">
                                 <li class="bg-light0"></li>
                                 <li class="bg-light1"></li>
@@ -187,18 +169,14 @@
                             <div class="cart-info cart-wrap">
                                 <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                         class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload"
-                                                                       aria-hidden="true"></i></a>
+                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> 
                             </div>
                         </div>
                         <div class="product-detail">                                
                             <a href="product-page(left-image).php">
                                 <h6>multicolored polo tshirt</h6>
                             </a>
-                            <h4>$36.00</h4>
+                            <h4>$36.00 <del>$45.00</del></h4>
                             <ul class="color-variant">
                                 <li class="bg-light0"></li>
                                 <li class="bg-light1"></li>
@@ -221,18 +199,14 @@
                             <div class="cart-info cart-wrap">
                                 <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                         class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload"
-                                                                       aria-hidden="true"></i></a>
+                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <div class="product-detail">                                
                             <a href="product-page(left-image).php">
                                 <h6>multicolored polo tshirt</h6>
                             </a>
-                            <h4>$36.00</h4>
+                            <h4>$36.00 <del>$40.00</del></h4>
                             <ul class="color-variant">
                                 <li class="bg-light0"></li>
                                 <li class="bg-light1"></li>
@@ -255,18 +229,14 @@
                             <div class="cart-info cart-wrap">
                                 <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                         class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload"
-                                                                       aria-hidden="true"></i></a>
+                                                                          title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <div class="product-detail">                                
                             <a href="product-page(left-image).php">
                                 <h6>multicolored polo tshirt</h6>
                             </a>
-                            <h4>$36.00</h4>
+                            <h4>$36.00 <del>$42.00</del></h4>
                             <ul class="color-variant">
                                 <li class="bg-light0"></li>
                                 <li class="bg-light1"></li>
@@ -489,18 +459,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>purple solid polo tshirt</h6>
                                         </a>
-                                        <h4>$50.00</h4>
+                                        <h4>$50.00 <del>$60.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -524,18 +490,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a> 
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>Candy red solid tshirt</h6>
                                         </a>
-                                        <h4>$35.00</h4>
+                                        <h4>$35.00 <del>$40.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -561,18 +523,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>sleevles white tshirt with text</h6>
                                         </a>
-                                        <h4>$55.00</h4>
+                                        <h4>$55.00 <del>$60.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -596,18 +554,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a> 
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>purple solid polo tshirt</h6>
                                         </a>
-                                        <h4>$56.00</h4>
+                                        <h4>$56.00 <del>$60.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -631,18 +585,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                           
                                         <a href="product-page(left-image).php">
                                             <h6>purple solid polo tshirt</h6>
                                         </a>
-                                        <h4>$35.00</h4>
+                                        <h4>$35.00 <del>$40.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -668,18 +618,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>sleevles white tshirt with text</h6>
                                         </a>
-                                        <h4>$16.00</h4>
+                                        <h4>$16.00 <del>$20.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -703,18 +649,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>multi-color polo tshirt</h6>
                                         </a>
-                                        <h4>$19.00</h4>
+                                        <h4>$19.00 <del>$25.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -740,18 +682,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>Candy red solid tshirt</h6>
                                         </a>
-                                        <h4>$18.00</h4>
+                                        <h4>$18.00 <del>$20.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -781,18 +719,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>multi-color polo tshirt</h6>
                                         </a>
-                                        <h4>$25.00</h4>
+                                        <h4>$25.00 <del>$30.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -816,18 +750,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>purple solid polo tshirt</h6>
                                         </a>
-                                        <h4>$35.00</h4>
+                                        <h4>$35.00 <del>$40.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -851,18 +781,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a> 
                                         </div>
                                     </div>
                                     <div class="product-detail">                                           
                                         <a href="product-page(left-image).php">
                                             <h6>multi-color polo tshirt</h6>
                                         </a>
-                                        <h4>$28.00</h4>
+                                        <h4>$28.00 <del>$32.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -888,18 +814,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a> 
                                         </div>
                                     </div>
                                     <div class="product-detail">
                                         <a href="product-page(left-image).php">
                                             <h6>sleevles white tshirt with text</h6>
                                         </a>
-                                        <h4>$16.00</h4>
+                                        <h4>$16.00 <del>$20.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -925,18 +847,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>Candy red solid tshirt</h6>
                                         </a>
-                                        <h4>$24.00</h4>
+                                        <h4>$24.00 <del>$30.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -960,18 +878,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>Candy red solid tshirt</h6>
                                         </a>
-                                        <h4>$24.00</h4>
+                                        <h4>$24.00 <del>$28.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -997,18 +911,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                           
                                         <a href="product-page(left-image).php">
                                             <h6>sleevles white tshirt with text</h6>
                                         </a>
-                                        <h4>$38.00</h4>
+                                        <h4>$38.00 <del>$45.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1032,18 +942,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                           
                                         <a href="product-page(left-image).php">
                                             <h6>purple solid polo tshirt</h6>
                                         </a>
-                                        <h4>$24.00</h4>
+                                        <h4>$24.00 <del>$25.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1071,18 +977,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>purple solid polo tshirt</h6>
                                         </a>
-                                        <h4>$50.00</h4>
+                                        <h4>$50.00 <del>$60.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1108,18 +1010,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>sleevles white tshirt with text</h6>
                                         </a>
-                                        <h4>$65.00</h4>
+                                        <h4>$65.00 <del>$70.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1143,18 +1041,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>multi-color polo tshirt</h6>
                                         </a>
-                                        <h4>$45.00</h4>
+                                        <h4>$45.00 <del>$50.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1180,18 +1074,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>Candy red solid tshirt</h6>
                                         </a>
-                                        <h4>$30.00</h4>
+                                        <h4>$30.00 <del>$40.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1217,18 +1107,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                           
                                         <a href="product-page(left-image).php">
                                             <h6>multi-color polo tshirt</h6>
                                         </a>
-                                        <h4>$65.00</h4>
+                                        <h4>$65.00 <del>$70.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1252,18 +1138,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>Candy red solid tshirt</h6>
                                         </a>
-                                        <h4>$500.00</h4>
+                                        <h4>$500.00 <del>$600.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1289,18 +1171,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>sleevles white tshirt with text</h6>
                                         </a>
-                                        <h4>$50.00</h4>
+                                        <h4>$50.00 <del>$60.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1324,18 +1202,14 @@
                                             <button data-bs-toggle="modal" data-bs-target="#addtocart"
                                                     title="Add to cart"><i class="ti-shopping-cart"></i></button> <a
                                                 href="javascript:void(0)" title="Add to Wishlist"><i
-                                                    class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                            data-bs-toggle="modal" data-bs-target="#quick-view"
-                                                                                            title="Quick View"><i class="ti-search" aria-hidden="true"></i></a>
-                                            <a href="compare.html" title="Compare"><i class="ti-reload"
-                                                                                      aria-hidden="true"></i></a>
+                                                    class="ti-heart" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="product-detail">                                            
                                         <a href="product-page(left-image).php">
                                             <h6>purple solid polo tshirt</h6>
                                         </a>
-                                        <h4>$25.00</h4>
+                                        <h4>$25.00 <del>$35.00</del></h4>
                                         <ul class="color-variant">
                                             <li class="bg-light0"></li>
                                             <li class="bg-light1"></li>
@@ -1355,7 +1229,7 @@
 
 
 <!-- service layout -->
-<div class="container">
+<div class="container service_section">
     <section class="service border-section small-section">
         <div class="row">
             <div class="col-md-4 service-block">

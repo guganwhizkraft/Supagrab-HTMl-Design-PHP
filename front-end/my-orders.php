@@ -1,6 +1,6 @@
 <?php include_once 'templates/header.php'; ?>
 <!-- section start -->
-<section class="section-b-space">
+<section class="section-b-space my_orders_pg">
     <div class="container">
         <div class="row">
             <div class="col-lg-3">
@@ -23,11 +23,8 @@
                 <div class="dashboard-right">
                     <div class="dashboard">
                         <div class="product-order">
-							<div class="row product-order-detail">
-								<div class="col-2">
-									<img src="../assets/images/custom/4-min-6.jpg" alt="" class="img-fluid  lazyload">
-								</div>
-								<div class="col-3 order_detail">
+							<div class="row product-order-detail">								
+								<div class="col-4 order_detail">
 									<div>
 										<h4>product name</h4>
 										<h5>cotton shirt</h5>
@@ -39,7 +36,7 @@
 										<h5>1</h5>
 									</div>
 								</div>
-								<div class="col-2 order_detail">
+								<div class="col-3 order_detail">
 									<div>
 										<h4>price</h4>
 										<h5>$555.00</h5>
@@ -52,11 +49,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="row product-order-detail">
-								<div class="col-2">
-									<img src="../assets/images/custom/20210424_141556-min.jpg" alt="" class="img-fluid  lazyload">
-								</div>
-								<div class="col-3 order_detail">
+							<div class="row product-order-detail">								
+								<div class="col-4 order_detail">
 									<div>
 										<h4>product name</h4>
 										<h5>cotton shirt</h5>
@@ -68,7 +62,7 @@
 										<h5>1</h5>
 									</div>
 								</div>
-								<div class="col-2 order_detail">
+								<div class="col-3 order_detail">
 									<div>
 										<h4>price</h4>
 										<h5>$555.00</h5>
@@ -81,11 +75,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="row product-order-detail">
-								<div class="col-2">
-									<img src="../assets/images/custom/20210414_201442-min.jpg" alt="" class="img-fluid  lazyload">
-								</div>
-								<div class="col-3 order_detail">
+							<div class="row product-order-detail">								
+								<div class="col-4 order_detail">
 									<div>
 										<h4>product name</h4>
 										<h5>cotton shirt</h5>
@@ -97,7 +88,7 @@
 										<h5>1</h5>
 									</div>
 								</div>
-								<div class="col-2 order_detail">
+								<div class="col-3 order_detail">
 									<div>
 										<h4>price</h4>
 										<h5>$555.00</h5>
@@ -110,11 +101,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="row product-order-detail">
-								<div class="col-2">
-									<img src="../assets/images/custom/20210414_165451-min.jpg" alt="" class="img-fluid  lazyload">
-								</div>
-								<div class="col-3 order_detail">
+							<div class="row product-order-detail">								
+								<div class="col-4 order_detail">
 									<div>
 										<h4>product name</h4>
 										<h5>cotton shirt</h5>
@@ -126,7 +114,7 @@
 										<h5>1</h5>
 									</div>
 								</div>
-								<div class="col-2 order_detail">
+								<div class="col-3 order_detail">
 									<div>
 										<h4>price</h4>
 										<h5>$555.00</h5>
@@ -138,7 +126,7 @@
 										<h5><a href="order-tracking.php">Track Your Order</a></h5>
 									</div>
 								</div>
-							</div>							
+							</div>													
 						</div>
                     </div>
                 </div>

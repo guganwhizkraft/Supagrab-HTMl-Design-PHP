@@ -1,7 +1,7 @@
 <?php include_once 'templates/header.php'; ?>
 
 <!--section start-->
-<section class="authentication-page">
+<section class="authentication-page search_pg">
     <div class="container">
         <section class="search-block">
             <div class="container">
@@ -26,10 +26,10 @@
 
 
 <!-- product section start -->
-<section class="section-b-space ratio_asos">
+<section class="section-b-space ratio_asos search_prod">
     <div class="container">
         <div class="row search-product">
-            <div class="col-xl-2 col-md-4 col-6">
+            <div class="col-xl-3 col-md-3 col-6">
                 <div class="product-box">
                     <div class="img-wrapper">
                         <div class="front">
@@ -43,17 +43,14 @@
                         <div class="cart-info cart-wrap">
                             <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                     class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                                       data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
-                                    class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
-                                                                             title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
+                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div class="product-detail">                            
                         <a href="product-page(left-image).php">
                             <h6>Slim Fit Cotton Shirt</h6>
                         </a>
-                        <h4>$500.00</h4>
+                        <h4>$500.00 <del>$600.00</del></h4>
                         <ul class="color-variant">
                             <li class="bg-light0"></li>
                             <li class="bg-light1"></li>
@@ -62,7 +59,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-2 col-md-4 col-6">
+            <div class="col-xl-3 col-md-3 col-6">
                 <div class="product-box">
                     <div class="img-wrapper">
                         <div class="front">
@@ -76,17 +73,14 @@
                         <div class="cart-info cart-wrap">
                             <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                     class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                                       data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
-                                    class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
-                                                                             title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
+                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> 
                         </div>
                     </div>
                     <div class="product-detail">                            
                         <a href="product-page(left-image).php">
                             <h6>Slim Fit Cotton Shirt</h6>
                         </a>
-                        <h4>$500.00</h4>
+                        <h4>$500.00<del>$600.00</del></h4>
                         <ul class="color-variant">
                             <li class="bg-light0"></li>
                             <li class="bg-light1"></li>
@@ -95,7 +89,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-2 col-md-4 col-6">
+            <div class="col-xl-3 col-md-3 col-6">
                 <div class="product-box">
                     <div class="img-wrapper">
                         <div class="front">
@@ -109,10 +103,7 @@
                         <div class="cart-info cart-wrap">
                             <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                     class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                                       data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
-                                    class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
-                                                                             title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
+                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> 
                         </div>
                     </div>
                     <div class="product-detail">                            
@@ -128,7 +119,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-2 col-md-4 col-6">
+            <div class="col-xl-3 col-md-3 col-6">
                 <div class="product-box">
                     <div class="img-wrapper">
                         <div class="front">
@@ -142,17 +133,13 @@
                         <div class="cart-info cart-wrap">
                             <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                     class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                                       data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
-                                    class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
-                                                                             title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
-                        </div>
+                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a>
                     </div>
                     <div class="product-detail">                            
                         <a href="product-page(left-image).php">
                             <h6>Slim Fit Cotton Shirt</h6>
                         </a>
-                        <h4>$500.00</h4>
+                        <h4>$500.00 <del>$600.00</del></h4>
                         <ul class="color-variant">
                             <li class="bg-light0"></li>
                             <li class="bg-light1"></li>
@@ -160,75 +147,11 @@
                         </ul>
                     </div>
                 </div>
-            </div>
-            <div class="col-xl-2 col-md-4 col-6">
-                <div class="product-box">
-                    <div class="img-wrapper">
-                        <div class="front">
-                            <a href="product-page(left-image).php"><img src="../assets/images/custom/20210424_141222-min.jpg"
-                                                                        class="img-fluid   bg-img" alt=""></a>
-                        </div>
-                        <div class="back">
-                            <a href="product-page(left-image).php"><img src="../assets/images/custom/20210424_141222-min.jpg"
-                                                                        class="img-fluid   bg-img" alt=""></a>
-                        </div>
-                        <div class="cart-info cart-wrap">
-                            <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
-                                    class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                                       data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
-                                    class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
-                                                                             title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                    <div class="product-detail">                           
-                        <a href="product-page(left-image).php">
-                            <h6>Slim Fit Cotton Shirt</h6>
-                        </a>
-                        <h4>$500.00</h4>
-                        <ul class="color-variant">
-                            <li class="bg-light0"></li>
-                            <li class="bg-light1"></li>
-                            <li class="bg-light2"></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2 col-md-4 col-6">
-                <div class="product-box">
-                    <div class="img-wrapper">
-                        <div class="front">
-                            <a href="product-page(left-image).php"><img src="../assets/images/custom/20210414_165623-min.jpg"
-                                                                        class="img-fluid   bg-img" alt=""></a>
-                        </div>
-                        <div class="back">
-                            <a href="product-page(left-image).php"><img src="../assets/images/custom/20210414_165623-min.jpg"
-                                                                        class="img-fluid   bg-img" alt=""></a>
-                        </div>
-                        <div class="cart-info cart-wrap">
-                            <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
-                                    class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                                                      title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a href="#"
-                                                                                                       data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
-                                    class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
-                                                                             title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                    <div class="product-detail">                           
-                        <a href="product-page(left-image).php">
-                            <h6>Slim Fit Cotton Shirt</h6>
-                        </a>
-                        <h4>$500.00</h4>
-                        <ul class="color-variant">
-                            <li class="bg-light0"></li>
-                            <li class="bg-light1"></li>
-                            <li class="bg-light2"></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+            </div>            
         </div>
     </div>
 </section>
 <!-- product section end -->
+
+
 <?php include_once 'templates/footer.php'; ?>

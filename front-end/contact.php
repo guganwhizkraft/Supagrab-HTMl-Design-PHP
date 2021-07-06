@@ -13,8 +13,7 @@
                 <div class="contact-right">
                     <ul>
                         <li>
-                            <div class="contact-icon"><img src="../assets/images/icon/phone.png"
-                                                           alt="Generic placeholder image">
+                            <div class="contact-icon"><i class="fa fa-phone" aria-hidden="true"></i>
                                 <h6>Contact Us</h6>
                             </div>
                             <div class="media-body">
@@ -32,8 +31,7 @@
                             </div>
                         </li>
                         <li>
-                            <div class="contact-icon"><img src="../assets/images/icon/email.png"
-                                                           alt="Generic placeholder image">
+                            <div class="contact-icon"><i class="fa fa-envelope-o" aria-hidden="true"></i>
                                 <h6>Address</h6>
                             </div>
                             <div class="media-body">

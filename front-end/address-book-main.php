@@ -1,6 +1,6 @@
 <?php include_once 'templates/header.php'; ?>
 <!-- section start -->
-<section class="section-b-space">
+<section class="section-b-space addbk-main-pg">
     <div class="container">
         <div class="row">
             <div class="col-lg-3">
@@ -23,7 +23,7 @@
                 <div class="dashboard-right">
                     <div class="dashboard">
                         <div class="page-title">
-                            <h2>Address Book <span class="add_link"><a href="address-book.php">New Address</a></span></h2>
+                            <h2>Address Book <span class="add_link"><a href="address-book.php" class="btn btn-solid">New Address</a></span></h2>
                         </div>
                         <div class="welcome-msg">
                             <p>Hello, MARK JECNO !</p>                           
