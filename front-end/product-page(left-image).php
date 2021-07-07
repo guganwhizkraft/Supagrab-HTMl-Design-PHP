@@ -50,16 +50,14 @@
                         </ul>
                         <div id="selectSize" class="addeffect-section product-description border-product">
                             <h6 class="product-title size-text">select size</h6>
-                            
-                            <h6 class="error-message">please select size</h6>
-                            <div class="size-box">
-                                <ul>
-                                    <li><a href="javascript:void(0)">s</a></li>
-                                    <li><a href="javascript:void(0)">m</a></li>
-                                    <li><a href="javascript:void(0)">l</a></li>
-                                    <li><a href="javascript:void(0)">xl</a></li>
-                                </ul>
-                            </div>
+                            <select class="form-select size_dropdown" aria-label="Default select example">
+                                <option selected>Please Select Size</option>
+                                <option value="1">Small</option>
+                                <option value="2">Medium</option>
+                                <option value="3">Large</option>
+                                <option value="3">Extra large</option>
+                            </select>
+                            <h6 class="error-message">please select size</h6>                           
                             <h6 class="product-title">quantity</h6>
                             <div class="qty-box">
                                 <div class="input-group"><span class="input-group-prepend"><button type="button"
@@ -70,6 +68,9 @@
                                                                               class="btn quantity-right-plus" data-type="plus" data-field=""><i
                                                 class="ti-angle-right"></i></button></span>
                                 </div>
+                            </div>
+                            <div class="stock_sec">
+                                <p class="stock in-stock">In Stock</p>
                             </div>
                         </div>
                         <div class="product-buttons"><a href="javascript:void(0)" id="cartEffect"

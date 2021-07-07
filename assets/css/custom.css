@@ -24,7 +24,7 @@ section.new_homebanner .container {
     text-transform: capitalize;
     font-size: 92px;
     position: relative;
-    z-index: 9;
+    z-index: 1;
     margin: -30px 0 0px !important;
     font-weight: 500;
     word-spacing: 0px !important;
@@ -257,7 +257,7 @@ section.obsession_banner div.obsession_inner div {
 }
 /*----- CATEGORY BANNER END HERE -----*/
 
-/*----- ADDRESS BOOK CSS STARTED HERE ------*/
+/*----- DASHBOARD CSS STARTED HERE ------*/
 .address-book_sec input,
 .address-book_sec select.form-control {
     max-height: 38px !important;
@@ -323,20 +323,229 @@ ul.address-section li {
 	color: #999999;
     transition: 0.2s ease-in-out;
 }
-.dashboard .product-order-detail:last-child {
-    border-bottom: 0 !important;
-    padding-bottom: 0 !important;
-}
 .dashboard .product-order-detail {
-    border-bottom: 1px solid #dddddd;
-    padding-bottom: 20px;
+    border: 1px solid #f8f8f8!important;
+    align-items: flex-start;
+    padding: 10px 0;
+    background: #f8f8f8;
+    box-shadow: 0 0 2px 2px #f1f1f1;
+    margin: 20px 0;
 }
-/*----- ADDRESS BOOK CSS END HERE ------*/
+.dashboard .product-order-detail a{
+    text-decoration: none !important;
+}
+.dashboard a {
+    text-decoration: underline !important;
+}
+.dashboard-left .block-content ul li:last-child{
+    border-bottom: 0px !important;
+}
+.dashboard-left .block-content ul li,
+.dashboard-left .block-content ul li a,
+.dashboard-left .block-content ul li:before{
+    height: auto !important;
+}
+.dashboard-left .block-content ul li {
+    border-bottom: 1px solid #dddddd;
+    padding: 15px 0 15px 0;    
+}
+.dashboard-left .block-content ul li.active:before, 
+.dashboard-left .block-content ul li.active a {
+    color: #fff !important;
+}
+.dashboard-left .block-content ul li.active {
+    border-bottom-color:  var(--theme-deafult) !important;
+    padding-left: 20px;
+    background:  var(--theme-deafult);
+    color: #fff;
+}
+.dashboard .box a {    
+    font-weight: 600;
+}
+.dashboard-left .block-content { 
+    padding: 0px;
+}
+.wish_btn {
+    justify-content: flex-end;
+}
+.product-order-detail:last-child {
+    margin-bottom: 0;
+}
+/*----- DASHBOARD CSS END HERE ------*/
+
+/*----- PRODUCT GRIDS CSS STARTED HERE --------*/
+.single_prod_pg .stock_sec {
+    margin-top: 20px;
+}
+.single_prod_pg .qty-box {
+    margin-top: 4px !important;
+}
+.single_prod_pg select.size_dropdown {
+    margin-bottom: 15px;
+    margin-top: 4px;
+    min-width: 40%;
+    width: 250px;
+    outline: 0 !important;
+    min-height: 38px;
+    border-radius: 0;
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+}
+.product-box:hover .img-wrapper .back:before {
+    content: "";
+    position: absolute;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+    height: 100%;
+    cursor: pointer;
+    width: 100%;
+    background: var(--theme-deafult);
+    opacity: 0.5;
+    left: 0;
+}
+.product-box:hover .img-wrapper .back a:after {
+    content: "View Product";
+    position: absolute;
+    word-spacing: 2px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 2px;
+    padding: 8px 10px;
+    letter-spacing: 0.5px;
+    z-index: 1;
+    top: 45%;
+    text-align: center;
+    width: 120px;
+    background: var(--theme-deafult);
+    margin: auto;
+    color: #fff;
+    left: 0;
+    right: 0;
+}
+.stock.out-of-stock{
+    background: #a3a3a3;
+}
+.stock.in-stock {
+    background: #00a460;
+}
+.stock{
+    color: #ffffff !important;
+    font-size: 13px !important;
+    text-transform: uppercase;
+    background: #00a460;
+    padding: 4px 15px;
+    width: max-content;
+    letter-spacing: 0.5px;
+    margin: 5px 0 0 0 !important;
+    display: block;
+    text-align: center;
+    border-radius: 25px;
+}
+.cart-info button i, .cart-info a i {    
+    background: #2d2a25;
+    margin: 0px 7px 7px;
+    border-radius: 50%;
+    padding: 8px !important;
+    font-size: 15px !important;
+    color: #fff !important;
+}
+.cart-info button:hover i, .cart-info a:hover  i{
+    background: var(--theme-deafult);
+}
+.cart-info button i,
+.product-box:hover .cart-info button:hover i,
+.cart-info button:hover i,
+.cart-info button i:hover {
+    -webkit-animation: ring 4s 0.7s ease-in-out infinite;
+    animation: ring 4s 0.2s ease-in-out infinite !important;    
+}
+/*-------- PRODUCT GRIDS CSS END HERE ----------*/
+
+/*========== CHECKOUT PAGE CSS STATED HERE ===========*/
+.apply_code_sec h2 {
+    font-size: 18px;
+    margin: 0;
+    padding: 15px 25px;
+    color: #000;
+    display: flex;
+    font-weight: 600;
+    align-items: center;
+    justify-content: flex-start;
+    letter-spacing: 2px;
+}
+.apply_code_sec {
+    border: 1px solid #e2e5e9;
+    margin-bottom: 25px;
+}
+.apply_code_sec .coupon_toogle {
+    padding: 25px !important;
+    border-radius: 0;
+    border-top: 1px solid #e2e5e9 !important;
+}
+.apply_code_sec h2 img{
+    margin-right: 15px;
+}
+.checkout-form {
+    background: #fff;
+    border: 0;
+    box-shadow: 0px 0px 15px 2px #dbdbdb8f;
+    display: inline-block;
+    padding: 45px 32px;
+}
+.apply_code_sec .coupon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.apply_code_sec .coupon input  {
+    width: 100% !important;
+    height: 40px !important;
+    top: 0px;
+    font-size: 16px;
+    margin: 0 !important;
+    min-height: 50px;
+    min-width: 145px !important;
+    border: 1px solid #ccc;
+    position: relative;
+    padding: .75em !important;
+}
+.apply_code_sec .coupon button{
+    margin: 0 !important;
+    min-height: 50px;
+    min-width: 145px !important;
+    width: auto !important;
+}
+.checkout-details {
+    background: transparent !important;
+    padding: 0 !important;
+}
+.checkout-details .order-box {
+    margin-bottom: 0 !important;
+}
+.checkout-details .order-box .title-box {
+    padding-bottom: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.checkout-details .payment-box {
+    background-color: #f8f8f8;
+    padding: 25px;
+    margin: 20px 0 0px 0;
+    border: 1px solid #f8f8f8!important;
+    box-shadow: 0 0 2px 2px #f1f1f1;
+}
+.checkout-details .payment-options {
+    margin: 0 !important;
+}
+/*============ CHECKOUT PAGE CSS END HERE ============*/
 
 /*======== CHANGE COLOR THEME CSS STARTED HERE (GOBAL CSS) ==========*/
 a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
     border-color: var(--theme-deafult);
     background-image: linear-gradient(30deg, #060606 50%, transparent 50%);
+}
+.btn-solid:focus {
+    color: #fff;
 }
 .tap-top,
 .cart_qty_cls{
@@ -344,12 +553,6 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 }
 .theme-color-1 {
     --theme-deafult: #060606;
-}
-.dashboard-left .block-content ul li.active {    
-    padding-left: 10px;
-}
-.dashboard .box a {    
-    font-weight: 600;
 }
 .dashboard-left .block-content ul li.active ,
 .dashboard .box a , a,a:hover,
@@ -384,6 +587,15 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 	.top-banner-wrapper h1 {
 		font-size: 34px;
 	}
+    .single_prod_pg .stock_sec p {
+        margin: 0 auto !important;
+    }
+    .single_prod_pg .product-title.size-text {
+        text-align: center !important;
+    }
+    .single_prod_pg select.size_dropdown {
+        margin: 0 auto 10px;
+    }
 }
 @media screen and (max-width: 767px){
 	.top-banner-wrapper ol {

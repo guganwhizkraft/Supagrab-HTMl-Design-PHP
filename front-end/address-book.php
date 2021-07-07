@@ -13,7 +13,7 @@
                             <li><a href="dashboard.php">Account Info</a></li>
                             <li class="active"><a href="address-book-main.php">Address Book</a></li>
                             <li><a href="my-orders.php">My Orders</a></li>
-                            <li><a href="wishlist.php">My Wishlist</a></li>
+                            <li><a href="wishlist-dashboard.php">My Wishlist</a></li>
                             <li class="last"><a href="#">Log Out</a></li>
                         </ul>
                     </div>

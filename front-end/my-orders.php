@@ -13,7 +13,7 @@
                             <li><a href="dashboard.php">Account Info</a></li>
                             <li><a href="address-book.php">Address Book</a></li>
                             <li class="active"><a href="my-orders.php">My Orders</a></li>
-                            <li><a href="wishlist.php">My Wishlist</a></li>
+                            <li><a href="wishlist-dashboard.php">My Wishlist</a></li>
                             <li class="last"><a href="#">Log Out</a></li>
                         </ul>
                     </div>
@@ -22,111 +22,93 @@
             <div class="col-lg-9">
                 <div class="dashboard-right">
                     <div class="dashboard">
-                        <div class="product-order">
+						<div class="page-title">
+                            <h2>My Orders</h2>
+                        </div>
+                        <div class="welcome-msg">
+                            <p>Hello, MARK JECNO !</p>                            
+                        </div>
+                        <div class="product-order mt-4">
 							<div class="row product-order-detail">								
+								<div class="col-5 order_detail">
+									<div>
+										<h5>#25ch58dg8428963</h5>
+										<h4><span>(12 Jannuary 2021 at 1:30AM)</span></h4>
+										<a href="#!"><i class="fa fa-star" aria-hidden="true"></i> RATE & REVIEW PRODUCT</a>
+									</div>
+								</div>
+								<div class="col-3 order_detail">
+									<div>
+										<h5>$500 <del>$600</del></h5>										
+									</div>
+								</div>
 								<div class="col-4 order_detail">
-									<div>
-										<h4>product name</h4>
-										<h5>cotton shirt</h5>
+									<div>										
+										<h4>Delivered On Mon, Jannuary 18th 2021</h4>
+										<h4><a href="order-tracking.php"><i class="fa fa-map-marker" aria-hidden="true"></i> Track Your Order</a></h4>
 									</div>
-								</div>
-								<div class="col-2 order_detail">
-									<div>
-										<h4>quantity</h4>
-										<h5>1</h5>
-									</div>
-								</div>
-								<div class="col-3 order_detail">
-									<div>
-										<h4>price</h4>
-										<h5>$555.00</h5>
-									</div>
-								</div>
-								<div class="col-3 order_detail">
-									<div>
-										<h4>Track Order</h4>
-										<h5><a href="order-tracking.php">Track Your Order</a></h5>
-									</div>
-								</div>
+								</div>								
 							</div>
 							<div class="row product-order-detail">								
+								<div class="col-5 order_detail">
+									<div>
+										<h5>#963h58dfgf28963</h5>
+										<h4><span>(12 Jannuary 2021 at 1:30AM)</span></h4>
+										<a href="#!"><i class="fa fa-star" aria-hidden="true"></i> RATE & REVIEW PRODUCT</a>
+									</div>
+								</div>
+								<div class="col-3 order_detail">
+									<div>
+										<h5>$500 <del>$600</del></h5>										
+									</div>
+								</div>
 								<div class="col-4 order_detail">
-									<div>
-										<h4>product name</h4>
-										<h5>cotton shirt</h5>
+									<div>										
+										<h4>Delivered On Mon, Jannuary 18th 2021</h4>
+										<h4><a href="order-tracking.php"><i class="fa fa-map-marker" aria-hidden="true"></i> Track Your Order</a></h4>
 									</div>
-								</div>
-								<div class="col-2 order_detail">
+								</div>								
+							</div>	
+							<div class="row product-order-detail">								
+								<div class="col-5 order_detail">
 									<div>
-										<h4>quantity</h4>
-										<h5>1</h5>
-									</div>
-								</div>
-								<div class="col-3 order_detail">
-									<div>
-										<h4>price</h4>
-										<h5>$555.00</h5>
+										<h5>#741h58dg84284546963</h5>
+										<h4><span>(12 Jannuary 2021 at 1:30AM)</span></h4>
+										<a href="#!"><i class="fa fa-star" aria-hidden="true"></i> RATE & REVIEW PRODUCT</a>
 									</div>
 								</div>
 								<div class="col-3 order_detail">
 									<div>
-										<h4>Track Order</h4>
-										<h5><a href="order-tracking.php">Track Your Order</a></h5>
+										<h5>$500 <del>$600</del></h5>										
 									</div>
 								</div>
+								<div class="col-4 order_detail">
+									<div>										
+										<h4>Delivered On Mon, Jannuary 18th 2021</h4>
+										<h4><a href="order-tracking.php"><i class="fa fa-map-marker" aria-hidden="true"></i> Track Your Order</a></h4>
+									</div>
+								</div>								
 							</div>
 							<div class="row product-order-detail">								
+								<div class="col-5 order_detail">
+									<div>
+										<h5>#852h5dfdfg2gh8963</h5>
+										<h4><span>(12 Jannuary 2021 at 1:30AM)</span></h4>
+										<a href="#!"><i class="fa fa-star" aria-hidden="true"></i> RATE & REVIEW PRODUCT</a>
+									</div>
+								</div>
+								<div class="col-3 order_detail">
+									<div>
+										<h5>$500 <del>$600</del></h5>										
+									</div>
+								</div>
 								<div class="col-4 order_detail">
-									<div>
-										<h4>product name</h4>
-										<h5>cotton shirt</h5>
+									<div>										
+										<h4>Delivered On Mon, Jannuary 18th 2021</h4>
+										<h4><a href="order-tracking.php"><i class="fa fa-map-marker" aria-hidden="true"></i> Track Your Order</a></h4>
 									</div>
-								</div>
-								<div class="col-2 order_detail">
-									<div>
-										<h4>quantity</h4>
-										<h5>1</h5>
-									</div>
-								</div>
-								<div class="col-3 order_detail">
-									<div>
-										<h4>price</h4>
-										<h5>$555.00</h5>
-									</div>
-								</div>
-								<div class="col-3 order_detail">
-									<div>
-										<h4>Track Order</h4>
-										<h5><a href="order-tracking.php">Track Your Order</a></h5>
-									</div>
-								</div>
-							</div>
-							<div class="row product-order-detail">								
-								<div class="col-4 order_detail">
-									<div>
-										<h4>product name</h4>
-										<h5>cotton shirt</h5>
-									</div>
-								</div>
-								<div class="col-2 order_detail">
-									<div>
-										<h4>quantity</h4>
-										<h5>1</h5>
-									</div>
-								</div>
-								<div class="col-3 order_detail">
-									<div>
-										<h4>price</h4>
-										<h5>$555.00</h5>
-									</div>
-								</div>
-								<div class="col-3 order_detail">
-									<div>
-										<h4>Track Order</h4>
-										<h5><a href="order-tracking.php">Track Your Order</a></h5>
-									</div>
-								</div>
-							</div>													
+								</div>								
+							</div>										
 						</div>
                     </div>
                 </div>

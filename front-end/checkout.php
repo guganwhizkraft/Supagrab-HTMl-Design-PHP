@@ -6,7 +6,7 @@
             <div class="checkout-form">
                 <form>
                     <div class="row">
-                        <div class="col-lg-6 col-sm-12 col-xs-12">
+                        <div class="col-lg-7 col-sm-12 col-xs-12">
                             <div class="checkout-title">
                                 <h3>Billing Details</h3>
                             </div>
@@ -58,7 +58,18 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-sm-12 col-xs-12">
+                        <div class="col-lg-5 col-sm-12 col-xs-12">
+                            <div class="apply_code_sec">
+                                <h2><img src="../assets/images/custom/price_tag.png" class="img-fluid">Apply Coupon</h2>
+                                <div class="coupon_toogle">
+                                    <div class="coupon ">
+                                        <label for="coupon_code"></label>
+                                        <input type="text" name="coupon_code" class="input-text" id="coupon_code" value="" placeholder="Coupon code">
+                                        <button type="submit" class="btn-solid btn" name="apply_coupon" value="APPLY">APPLY</button>
+                                    </div>
+                                </div>
+                            </div>
+
                             <div class="checkout-details">
                                 <div class="order-box">
                                     <div class="title-box">
