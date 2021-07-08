@@ -1,6 +1,30 @@
 <?php include_once 'templates/header.php'; ?>
+
+<!-- banner start -->
+<div class="cat_banner">    
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="top-banner-wrapper">                        
+                    <img src="../assets/images/custom/Supagrab-Sale-.png" class="img-fluid   cat_bann_img" alt="">
+                    <div class="bnn_content">
+                        <h2>FAQ</h2>
+                        <nav aria-label="breadcrumb" class="theme-breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="index.html">HOME</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">FAQ</li>
+                            </ol>
+                        </nav>
+                    </div>                        
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- banner end -->
+
 <!--section start-->
-<section class="faq-section section-b-space">
+<section class="faq-section section-b-space faq-page pt-5">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">

@@ -7,12 +7,12 @@
             <div class="col-sm-12">
                 <h3>status for order no: 54151548</h3>
                 <div class="row border-part">
-                    <div class="col-xl-2 col-md-3 col-sm-4">
+                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4">
                         <div class="product-detail">
                             <img src="../assets/images/custom/20210424_141556-min.jpg" class="img-fluid  " alt="">
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-5 col-sm-8">
+                    <div class="col-xl-5 col-lg-5 col-md-8 col-sm-8">
                         <div class="tracking-detail">
                             <ul>
                                 <li>
@@ -52,7 +52,7 @@
                                         <span>shipping address</span>
                                     </div>
                                     <div class="right">
-                                        <span>2253 Short Street <br>Austin, TX<br>Texas, 78701</span>
+                                        <span>2253 Short Street Austin, TX Texas, 78701</span>
                                     </div>
                                 </li>
                                 <li>
@@ -74,7 +74,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-4">
+                    <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12">
                         <div class="order-map">
                             <iframe
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55107.59629446948!2d-97.77629221286301!3d30.316123884942762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644ca7d7a2a6d0d%3A0x209a4c2782a39461!2sCentral%20Market!5e0!3m2!1sen!2sin!4v1607754725548!5m2!1sen!2sin"

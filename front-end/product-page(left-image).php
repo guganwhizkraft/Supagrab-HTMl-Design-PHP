@@ -116,7 +116,7 @@
                     </li>
                     <li class="nav-item"><a class="nav-link" id="review-top-tab" data-bs-toggle="tab"
                                             href="#top-review" role="tab" aria-selected="false"><i
-                                class="icofont icofont-contacts"></i>Write Review</a>
+                                class="icofont icofont-contacts"></i>Product Review</a>
                         <div class="material-border"></div>
                     </li>
                 </ul>
@@ -190,43 +190,74 @@
                         </div>
                     </div>
                     <div class="tab-pane fade" id="top-review" role="tabpanel" aria-labelledby="review-top-tab">
-                        <form class="theme-form">
-                            <div class="form-row row">
-                                <div class="col-md-12">
-                                    <div class="media">
-                                        <label>Rating</label>
-                                        <div class="media-body ms-3">
-                                            <div class="rating three-star"><i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                    class="fa fa-star"></i> <i class="fa fa-star"></i></div>
+                        <div class="single-review review-page">
+                            <ul class="comment-section">
+                                <li>
+                                    <div class="media"><img src="../assets/images/avtar.jpg" alt="Generic placeholder image">
+                                        <div class="media-body">
+                                            <h6>Mark Jecno <span>( 12 Jannuary 2018 at 1:30AM )</span></h6>
+                                            <p>Donec rhoncus massa quis nibh imperdiet dictum. Vestibulum id est sit amet felis fringilla bibendum at at leo. Proin molestie ac nisi eu laoreet. Integer faucibus enim nec ullamcorper tempor. Aenean nec felis dui.</p>
+                                            <ul class="comnt-sec">
+                                                <li><a href="#"><i class="fa fa-thumbs-o-up"
+                                                            aria-hidden="true"></i><span>(14)</span></a></li>
+                                                <li><a href="#">
+                                                        <div class="unlike"><i class="fa fa-thumbs-o-down"
+                                                                aria-hidden="true"></i>(2)</div>
+                                                    </a></li>
+                                            </ul>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <label for="name">Name</label>
-                                    <input type="text" class="form-control" id="name" placeholder="Enter Your name"
-                                           required>
-                                </div>
-                                <div class="col-md-6">
-                                    <label for="email">Email</label>
-                                    <input type="text" class="form-control" id="email" placeholder="Email" required>
-                                </div>
-                                <div class="col-md-12">
-                                    <label for="review">Review Title</label>
-                                    <input type="text" class="form-control" id="review"
-                                           placeholder="Enter your Review Subjects" required>
-                                </div>
-                                <div class="col-md-12">
-                                    <label for="review">Review Title</label>
-                                    <textarea class="form-control" placeholder="Wrire Your Testimonial Here"
-                                              id="exampleFormControlTextarea1" rows="6"></textarea>
-                                </div>
-                                <div class="col-md-12">
-                                    <button class="btn btn-solid" type="submit">Submit YOur
-                                        Review</button>
-                                </div>
-                            </div>
-                        </form>
+                                </li>
+                                <li>
+                                    <div class="media"><img src="../assets/images/2.jpg" alt="Generic placeholder image">
+                                        <div class="media-body">
+                                            <h6>Mark Jecno <span>( 12 Jannuary 2018 at 1:30AM )</span></h6>
+                                            <p>Donec rhoncus massa quis nibh imperdiet dictum. Vestibulum id est sit amet felis fringilla bibendum at at leo. Proin molestie ac nisi eu laoreet. Integer faucibus enim nec ullamcorper tempor. Aenean nec felis dui.</p>
+                                            <ul class="comnt-sec">
+                                                <li><a href="#"><i class="fa fa-thumbs-o-up"
+                                                            aria-hidden="true"></i><span>(14)</span></a></li>
+                                                <li><a href="#">
+                                                        <div class="unlike"><i class="fa fa-thumbs-o-down"
+                                                                aria-hidden="true"></i>(2)</div>
+                                                    </a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="media"><img src="../assets/images/20.jpg" alt="Generic placeholder image">
+                                        <div class="media-body">
+                                            <h6>Mark Jecno <span>( 12 Jannuary 2018 at 1:30AM )</span></h6>
+                                            <p>Donec rhoncus massa quis nibh imperdiet dictum. Vestibulum id est sit amet felis fringilla bibendum at at leo. Proin molestie ac nisi eu laoreet. Integer faucibus enim nec ullamcorper tempor. Aenean nec felis dui.</p>
+                                            <ul class="comnt-sec">
+                                                <li><a href="#"><i class="fa fa-thumbs-o-up"
+                                                            aria-hidden="true"></i><span>(14)</span></a></li>
+                                                <li><a href="#">
+                                                        <div class="unlike"><i class="fa fa-thumbs-o-down"
+                                                                aria-hidden="true"></i>(2)</div>
+                                                    </a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="media"><img src="../assets/images/avtar.jpg" alt="Generic placeholder image">
+                                        <div class="media-body">
+                                            <h6>Mark Jecno <span>( 12 Jannuary 2018 at 1:30AM )</span></h6>
+                                            <p>Donec rhoncus massa quis nibh imperdiet dictum. Vestibulum id est sit amet felis fringilla bibendum at at leo. Proin molestie ac nisi eu laoreet. Integer faucibus enim nec ullamcorper tempor. Aenean nec felis dui.</p>
+                                            <ul class="comnt-sec">
+                                                <li><a href="#"><i class="fa fa-thumbs-o-up"
+                                                            aria-hidden="true"></i><span>(14)</span></a></li>
+                                                <li><a href="#">
+                                                        <div class="unlike"><i class="fa fa-thumbs-o-down"
+                                                                aria-hidden="true"></i>(2)</div>
+                                                    </a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>                               
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>

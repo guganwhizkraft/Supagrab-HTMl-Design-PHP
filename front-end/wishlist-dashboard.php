@@ -11,7 +11,7 @@
                     <div class="block-content">
                         <ul>
                             <li><a href="dashboard.php">Account Info</a></li>
-                            <li><a href="address-book.php">Address Book</a></li>
+                            <li><a href="address-book-main.php">Address Book</a></li>
                             <li><a href="my-orders.php">My Orders</a></li>
                             <li class="active"><a href="wishlist-dashboard.php">My Wishlist</a></li>
                             <li class="last"><a href="#">Log Out</a></li>

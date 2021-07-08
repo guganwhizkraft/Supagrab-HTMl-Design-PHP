@@ -23,7 +23,7 @@
                 <div class="dashboard-right">
                     <div class="dashboard acc_info_sec">
 						<div class="page-title">
-                            <h2>Account Info</h2>
+                            <h2>Account Info <span class="add_link"><a href="dashboard.php" class="btn btn-solid">Back</a></span></h2>
                         </div>
 						<div class="welcome-msg">
                             <p>Hello, MARK JECNO !</p>                           

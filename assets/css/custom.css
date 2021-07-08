@@ -1,5 +1,9 @@
 /*========== Custom Css Started Here ============*/
-
+select, input, button, select:focus, input:focus, button:focus, select:hover, input:hover, button:hover, select:active, input:active, button:active {
+    outline: 0 !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none;
+}
 /********** HOME PAGE TOP BANNER STARTED HERE *************/
 section.new_homebanner {
     padding: 0;
@@ -175,6 +179,16 @@ section.obsession_banner div.obsession_inner {
 section.obsession_banner div.obsession_inner div {
     height: auto !important;
 }
+section.obsession_banner .container:before {
+    display: none;
+    left: 0;
+    content: "";
+    background: #000000b5;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    position: absolute;
+}
 .obsession_heading h3 {
     background: #fff !important;
     color: #000 !important;
@@ -205,6 +219,7 @@ section.obsession_banner div.obsession_inner div {
 .banner_para p, .banner_para span {
     font-size: 20px !important;
     max-width: 450px !important;
+    line-height: 25px;
     margin: 0px auto 30px !important;
     color: #ffffff !important;
     letter-spacing: 2px !important;
@@ -258,6 +273,10 @@ section.obsession_banner div.obsession_inner div {
 /*----- CATEGORY BANNER END HERE -----*/
 
 /*----- DASHBOARD CSS STARTED HERE ------*/
+.revi-pro-img img {
+    width: 100px;
+    margin-right: 10px;
+}
 .address-book_sec input,
 .address-book_sec select.form-control {
     max-height: 38px !important;
@@ -282,6 +301,7 @@ ul.address-section li .tag {
     color: #222222;
     margin-right: 5px;
 }
+.review_section form div > div.col-md-12,
 .address-book_sec .form-row.row> div {
     margin-bottom: 10px;
 }
@@ -304,9 +324,6 @@ ul.address-section li {
     margin-bottom: 20px;
 }
 .dashboard .add_link a {
-    color: #fff;
-    border-color: var(--theme-deafult);
-    background-image: linear-gradient(30deg, #060606 50%, transparent 50%);
     padding: 7px 15px;
     font-weight: 400;
     height: 35px !important;
@@ -372,6 +389,12 @@ ul.address-section li {
 .product-order-detail:last-child {
     margin-bottom: 0;
 }
+.review_prod_list .product-order-detail .order_detail .revi-pro-img{
+    padding-left: 0 !important;
+}
+.review_prod_list .product-order-detail .order_detail > div {
+    padding-left: 10px;
+}
 /*----- DASHBOARD CSS END HERE ------*/
 
 /*----- PRODUCT GRIDS CSS STARTED HERE --------*/
@@ -392,12 +415,34 @@ ul.address-section li {
     border: 1px solid #ddd;
     padding: 5px 10px;
 }
-.product-box:hover .img-wrapper .back:before {
+.review-page .media img {
+    width: 60px;
+    border-radius: 50%;
+    border: 2px solid #dddddd;
+    margin-right: 20px;
+}
+.review-page .comment-section li:first-child {
+    margin-top: 0;
+    padding-top: 25px;
+    border-width: 1px !important;
+}
+.review-page .comment-section li:last-child {
+    padding-bottom: 25px;
+}
+.review-page .comment-section>li {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin: 20px 0 0px 0;
+    border: 1px solid #f8f8f8!important;
+    box-shadow: 0 0 2px 2px #f1f1f1;
+}
+.product-box:hover .img-wrapper .back a:before {
     content: "";
     position: absolute;
     -webkit-transition-delay: 0s;
     transition-delay: 0s;
     height: 100%;
+    z-index: 1;
     cursor: pointer;
     width: 100%;
     background: var(--theme-deafult);
@@ -413,7 +458,7 @@ ul.address-section li {
     border-radius: 2px;
     padding: 8px 10px;
     letter-spacing: 0.5px;
-    z-index: 1;
+    z-index: 9;
     top: 45%;
     text-align: center;
     width: 120px;
@@ -544,6 +589,23 @@ ul.address-section li {
 }
 /*============ CHECKOUT PAGE CSS END HERE ============*/
 
+/* =========== FAQ CSS STARTED HERE ==============*/
+.faq-page .card-header h5 button {
+    width: 100% !important;
+    background: transparent !important;
+    text-decoration: none !important;
+}
+
+.faq-page .card-header {
+    background: transparent !important;
+}
+
+.faq-page .card-body, .faq-page .card-body p {
+    padding-top: 0 !important;
+    font-size: 16px !important;
+}
+/* ============== FAQ CSS END HERE ================*/
+
 /*======== CHANGE COLOR THEME CSS STARTED HERE (GOBAL CSS) ==========*/
 a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
     border-color: var(--theme-deafult);
@@ -639,8 +701,69 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 /*========== COMMON CARD DESIGN END HERE ==============*/
 
 /**================================ RESPONSIVE CSS STARTED HERE ============================**/
-
+@media screen and (max-width: 1199px) {
+    .mob_hide {
+        display: none;
+    }
+    section.obsession_banner .container:before {
+        display: block !important;
+    }
+    body .bgimg_button {
+        height: 60px;
+        width: 180px;
+        letter-spacing: 3px;      
+        font-size: 28px;
+    }
+}
+@media screen and (min-width: 1025px) and (max-width: 1199px) {
+    body .home-bnn_inner h2 {
+        font-size: 75px;
+        border-right: 0;
+        margin: 0 auto !important;
+        width: 395px;
+    }
+    body .home-bnn_inner p {
+        font-size: 70px;
+        letter-spacing: 5px;
+        line-height: 70px;
+        margin-bottom: 30px;
+        margin-top: -25px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .tracking-page .order-map {
+        margin-top: 20px;
+        padding-bottom: 20px;
+    }
+    .tracking-page .wrapper .arrow-steps .step {        
+        min-width: 140px;
+    }
+    section.obsession_banner .container {
+        height: 550px !important;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {      
+    body section.new_homebanner .container {
+        height: 450px !important;
+    }
+    body .home-bnn_inner h2 {
+        border-right: 0;
+        font-size: 55px;
+        width: 310px;
+        margin: 0px auto 0 !important;
+    }
+    body .home-bnn_inner p {
+        font-size: 55px;
+        letter-spacing: 5px;
+        line-height: 60px;
+        margin-bottom: 20px;
+        margin-top: -20px;
+    }
+}
 @media screen and (max-width: 991px){
+    body section.obsession_banner div.container {
+        height: 500px !important;
+    }    
 	.single_prod_pg .collection-wrapper .order-up {
 		order: unset !important;
 		-webkit-box-ordinal-group: unset;
@@ -656,7 +779,7 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 	}
 	.top-banner-wrapper h1 {
 		font-size: 34px;
-	}
+	}    
     .single_prod_pg .stock_sec p {
         margin: 0 auto !important;
     }
@@ -667,7 +790,52 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
         margin: 0 auto 10px;
     }
 }
-@media screen and (max-width: 767px){
+@media screen and (max-width: 767px) and (min-width: 576px){
+    .tracking-page .order-table.table-responsive-sm {
+        overflow-x: auto;
+    }
+    body .home-bnn_inner h2 {
+        font-size: 60px;
+        border-right: 0;
+        margin: 0px auto 0 !important;
+        width: 340px;
+    }
+    body .home-bnn_inner p {
+        font-size: 50px;
+        letter-spacing: 2px;
+        line-height: 60px;
+        margin-bottom: 20px;
+        margin-top: -20px;
+    }
+    body section.new_homebanner .container {
+        height: 400px !important;
+    }
+}
+@media screen and (max-width: 767px){    
+    .review_prod_list .product-order-detail {
+        width: 100% !important;
+    }
+    .review_prod_list .product-order-detail .order_detail  h5 {
+        margin: 10px 0 0px 0 !important;
+    }
+    .review_prod_list .product-order-detail .order_detail > div {
+        padding-left: 0px;
+    }
+    .review_prod_list .product-order-detail .order_detail {
+        flex-direction: column !important;
+    }
+    .obsession_heading h3 {
+        padding: 9px 15px!important;
+        font-size: 16px!important;
+        max-width: 280px!important;
+        letter-spacing: 5px !important;
+    }    
+    .banner-content h2 {
+        letter-spacing: 4px!important;
+        word-spacing: 0px!important;
+        line-height: 40px!important;
+        font-size: 35px!important;
+    }    
 	.top-banner-wrapper ol {
 		padding: 0;
 	}
@@ -705,7 +873,7 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
         width: 100%;
         padding-bottom: 10px;
         overflow-x: auto;
-    } 
+    }    
 }
 @media screen and (max-width: 577px){
 	.brand-logo img {
@@ -730,7 +898,18 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
         right: unset !important;     
     }
 }
-@media screen and (max-width: 575px){	   
+@media screen and (max-width: 575px){
+    .banner_para p {
+        font-size: 18px !important;
+    }
+    .banner_para_home {
+        max-width: 280px;
+    }
+    body section.new_homebanner .container {
+        background-image: url(../images/custom/Banner-BG.jpg);
+        height: 380px !important;
+        padding: 50px var(--bs-gutter-x, 0.75rem) !important;
+    } 
     .dashboard-right .dashboard {
         padding: 10px;
     } 
@@ -742,6 +921,12 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
     }
     .wishlist-section .table-responsive-xs {
         overflow-x: auto;
+    }
+    body .bgimg_button {
+        height: 50px;
+        letter-spacing: 2px;
+        width: 150px;
+        font-size: 24px;
     }
     .addbk-main-pg h2 {
         display: flex;
@@ -771,10 +956,11 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
         margin-top: 10px;
     }
 	body .home-bnn_inner h2 {
-		font-size: 38px;
-		margin: 0px 0 0 0 !important;
-		width: 270px;
-	}
+        font-size: 38px;
+        margin: 0px auto 0 !important;
+        width: 220px;
+        border-right: 0;
+    }
     .top-banner-wrapper h1 ,.top-banner-wrapper h2 {
 		font-size: 22px;
 	}
@@ -785,10 +971,9 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 		margin-bottom: 20px;
 		margin-top: -15px;
 	}
-	body section.new_homebanner .container {    
-		height: 380px !important;
-		padding: 50px 6px !important;
-	}
+    .tracking-page .tracking-detail ul li .left {
+        width: 140px;
+    }
 }
 
 /**================================ RESPONSIVE CSS END HERE ============================**/
