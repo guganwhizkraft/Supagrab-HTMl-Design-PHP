@@ -1,6 +1,21 @@
 <?php include_once 'templates/header.php'; ?>
+
+<!-- Common Heading Start -->
+<section class="common_heading">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="title1">    
+                    <h2 class="title-inner1">Checkout</h2>
+                </div>                        
+            </div>
+        </div>
+    </div>   
+</section>
+<!-- Common Heading End -->
+
 <!-- section start -->
-<section class="section-b-space">
+<section class="section-b-space checkout_pg pt-0">
     <div class="container">
         <div class="checkout-page">
             <div class="checkout-form">

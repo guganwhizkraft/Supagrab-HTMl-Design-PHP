@@ -303,14 +303,15 @@ ul.address-section li {
     padding-bottom: 20px;
     margin-bottom: 20px;
 }
-.add_link a {
+.dashboard .add_link a {
     color: #fff;
     border-color: var(--theme-deafult);
     background-image: linear-gradient(30deg, #060606 50%, transparent 50%);
-    padding: 7px 15px;    
+    padding: 7px 15px;
     font-weight: 400;
     height: 35px !important;
     font-size: 14px;
+    text-decoration: none !important;
     font-family: poppins;
     float: right;
 }
@@ -428,16 +429,20 @@ ul.address-section li {
 .stock.in-stock {
     background: #00a460;
 }
-.stock{
+.stock {
     color: #ffffff !important;
     font-size: 13px !important;
     text-transform: uppercase;
     background: #00a460;
-    padding: 4px 15px;
+    min-height: 30px;
+    justify-content: center;
+    max-height: 30px;
+    padding: 5px 15px;
+    display: flex;
+    align-items: center;
     width: max-content;
     letter-spacing: 0.5px;
     margin: 5px 0 0 0 !important;
-    display: block;
     text-align: center;
     border-radius: 25px;
 }
@@ -547,6 +552,9 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 .btn-solid:focus {
     color: #fff;
 }
+.btn-solid:hover:focus {
+    color: var(--theme-deafult);
+}
 .tap-top,
 .cart_qty_cls{
 	background: var(--theme-deafult);
@@ -573,6 +581,63 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 }
 /*========== CHANGE COLOR THEME CSS END HERE (GOBAL CSS) ===========*/
 
+/*========== COMMON CARD DESIGN STARTED HERE ==============*/
+.card_box_main {
+    border: 1px solid #ddd;
+    padding: 30px;
+}
+.card_box_main .product-card {
+    border: 1px solid #f8f8f8!important;
+    align-items: flex-start;
+    padding: 10px 0;
+    background: #f8f8f8;
+    box-shadow: 0 0 2px 2px #f1f1f1;
+    margin: 0px 0 20px 0;
+}
+.card_box_main .product-card h5 {
+    text-transform: capitalize;
+    margin-bottom: 0;
+    font-weight: 600;
+    font-size: 16px;
+}
+.card_box_main .order_detail {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.card_box_main .product-card:last-child {
+    margin-bottom: 0;
+}
+.cart-total-price {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: flex-end;
+}
+.cart-total-price h4 {
+    font-size: 16px;
+    padding-right: 20px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-bottom: 0;
+    color: #000 !important;
+}
+.cart-total-price p {
+    font-size: 24px;
+    margin-bottom: 0;
+    padding-right: 0;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #000 !important;
+}
+.cart-section .cart-buttons > div:last-child, .wishlist-section .cart-buttons > div:last-child {
+    padding-right: calc(var(--bs-gutter-x) / 2);
+}
+/*========== COMMON CARD DESIGN END HERE ==============*/
+
 /**================================ RESPONSIVE CSS STARTED HERE ============================**/
 
 @media screen and (max-width: 991px){
@@ -581,6 +646,11 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 		-webkit-box-ordinal-group: unset;
 		-ms-flex-order: unset;
 	}
+    .dashboard-left {
+        width: 100% !important;
+        max-width: 220px !important;
+        padding: 0 10px;
+    }
 	.top-banner-wrapper ol {
 		padding: 0;
 	}
@@ -609,16 +679,7 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 	}	
 	.brand-logo img {
 		max-width: 220px;
-	}
-    .my_orders_pg .product-order-detail {
-        min-width: 640px !important;
-        overflow-x: hidden;
-    }
-    .my_orders_pg .product-order {
-        width: 100%;
-        padding-bottom: 10px;
-        overflow-x: auto;
-    }
+	}    
     .tracking-page .arrow-steps.clearfix .step {
         margin-left: 0 !important;
         margin-right: 0 !important;
@@ -626,6 +687,25 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
     section.pwd-page.section-b-space {
         padding: 70px 0;
     }
+    .card_box_main {     
+        padding: 10px;      
+    } 
+    .wishlist-dash-pg .product-order-detail{
+        margin-left: 4px;
+    }
+    .wishlist-dash-pg .product-order-detail,
+    .my_orders_pg .product-order-detail,
+    .product-card {
+        width: 700px;
+        overflow: hidden;
+    }   
+    .wishlist-dash-pg .product-order,
+    .my_orders_pg .product-order,
+    .card_box_main {  
+        width: 100%;
+        padding-bottom: 10px;
+        overflow-x: auto;
+    } 
 }
 @media screen and (max-width: 577px){
 	.brand-logo img {
@@ -635,9 +715,6 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
 		position: relative;
 		padding: 0 0 !important;
 	}   
-    .my_orders_pg .product-order-detail {
-        min-width: 600px !important;        
-    } 
     .top-header .header-dropdown .mobile-wishlist {
         right: unset !important;
         left: 32%;
@@ -653,7 +730,10 @@ a.btn,.btn-solid,.btn-xs,.tap-top.top-cls, span.cart_qty_cls  {
         right: unset !important;     
     }
 }
-@media screen and (max-width: 575px){	    
+@media screen and (max-width: 575px){	   
+    .dashboard-right .dashboard {
+        padding: 10px;
+    } 
     .pwd-page h2 {
         font-size: 20px;
     }

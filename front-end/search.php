@@ -1,11 +1,25 @@
 <?php include_once 'templates/header.php'; ?>
 
+<!-- Common Heading Start -->
+<section class="common_heading">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="title1">    
+                    <h2 class="title-inner1">Search</h2>
+                </div>                        
+            </div>
+        </div>
+    </div>   
+</section>
+<!-- Common Heading End -->
+
 <!--section start-->
-<section class="authentication-page search_pg">
+<section class="authentication-page search_pg pt-0">
     <div class="container">
         <section class="search-block">
             <div class="container">
-                <div class="row">
+                <div class="row">                    
                     <div class="col-lg-6 offset-lg-3">
                         <form class="form-header">
                             <div class="input-group">
@@ -134,6 +148,7 @@
                             <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
                                     class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
                                                                       title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a>
+                        </div>
                     </div>
                     <div class="product-detail">                            
                         <a href="product-page(left-image).php">

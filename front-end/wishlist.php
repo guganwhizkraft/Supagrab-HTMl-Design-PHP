@@ -1,172 +1,109 @@
 <?php include_once 'templates/header.php'; ?>
 
-
-<!--section start-->
-<section class="wishlist-section section-b-space">
+<!-- Common Heading Start -->
+<section class="common_heading">
     <div class="container">
         <div class="row">
-            <div class="col-sm-12 table-responsive-xs">
-                <table class="table cart-table">
-                    <thead>
-                        <tr class="table-head">
-                            <th scope="col">image</th>
-                            <th scope="col">product name</th>
-                            <th scope="col">price</th>
-                            <th scope="col">availability</th>
-                            <th scope="col">action</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>
-                                <a href="product-page(left-image).php"><img src="../assets/images/custom/4-min-6.jpg" alt=""></a>
-                            </td>
-                            <td><a href="product-page(left-image).php">Beautiful Swarovski Stud Earrings</a>
-                                <div class="mobile-cart-content row">
-                                    <div class="col">
-                                        <p>in stock</p>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color">$63.00</h2>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color"><a href="#" class="icon me-1"><i class="ti-close"></i>
-                                            </a><a href="#" class="cart"><i class="ti-shopping-cart"></i></a></h2>
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-                                <h2>$63.00</h2>
-                            </td>
-                            <td>
-                                <p>in stock</p>
-                            </td>
-                            <td><a href="#" class="icon me-3"><i class="ti-close"></i> </a><a href="#"
-                                                                                              class="cart"><i class="ti-shopping-cart"></i></a></td>
-                        </tr>
-                    </tbody>
-                    <tbody>
-                        <tr>
-                            <td>
-                                <a href="product-page(left-image).php"><img src="../assets/images/custom/20210414_201442-min.jpg" alt=""></a>
-                            </td>
-                            <td><a href="product-page(left-image).php">Snow Black Trendy Danglers</a>
-                                <div class="mobile-cart-content row">
-                                    <div class="col">
-                                        <p>in stock</p>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color">$63.00</h2>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color"><a href="#" class="icon me-1"><i class="ti-close"></i>
-                                            </a><a href="#" class="cart"><i class="ti-shopping-cart"></i></a></h2>
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-                                <h2>$63.00</h2>
-                            </td>
-                            <td>
-                                <p>in stock</p>
-                            </td>
-                            <td><a href="#" class="icon me-3"><i class="ti-close"></i> </a><a href="#"
-                                                                                              class="cart"><i class="ti-shopping-cart"></i></a></td>
-                        </tr>
-                    </tbody>
-                    <tbody>
-                        <tr>
-                            <td>
-                                <a href="product-page(left-image).php"><img src="../assets/images/custom/20210424_141556-min.jpg" alt=""></a>
-                            </td>
-                            <td><a href="product-page(left-image).php">Sparkling Sea Beads Bracelet</a>
-                                <div class="mobile-cart-content row">
-                                    <div class="col">
-                                        <p>in stock</p>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color">$63.00</h2>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color"><a href="#" class="icon me-1"><i class="ti-close"></i>
-                                            </a><a href="#" class="cart"><i class="ti-shopping-cart"></i></a></h2>
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-                                <h2>$63.00</h2>
-                            </td>
-                            <td>
-                                <p>in stock</p>
-                            </td>
-                            <td><a href="#" class="icon me-3"><i class="ti-close"></i> </a><a href="#"
-                                                                                              class="cart"><i class="ti-shopping-cart"></i></a></td>
-                        </tr>
-                    </tbody>
-                    <tbody>
-                        <tr>
-                            <td>
-                                <a href="product-page(left-image).php"><img src="../assets/images/custom/20210414_165451-min.jpg" alt=""></a>
-                            </td>
-                            <td><a href="product-page(left-image).php">Silver Leaf Beads Bracelet</a>
-                                <div class="mobile-cart-content row">
-                                    <div class="col">
-                                        <p>in stock</p>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color">$63.00</h2>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color"><a href="#" class="icon me-1"><i class="ti-close"></i>
-                                            </a><a href="#" class="cart"><i class="ti-shopping-cart"></i></a></h2>
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-                                <h2>$63.00</h2>
-                            </td>
-                            <td>
-                                <p>in stock</p>
-                            </td>
-                            <td><a href="#" class="icon me-3"><i class="ti-close"></i> </a><a href="#"
-                                                                                              class="cart"><i class="ti-shopping-cart"></i></a></td>
-                        </tr>
-                    </tbody>
-                    <tbody>
-                        <tr>
-                            <td>
-                                <a href="product-page(left-image).php"><img src="../assets/images/custom/1-min-13.jpg" alt=""></a>
-                            </td>
-                            <td><a href="product-page(left-image).php">Beautiful Heart Shaped Swarovski Earrings</a>
-                                <div class="mobile-cart-content row">
-                                    <div class="col">
-                                        <p>in stock</p>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color">$63.00</h2>
-                                    </div>
-                                    <div class="col">
-                                        <h2 class="td-color"><a href="#" class="icon me-1"><i class="ti-close"></i>
-                                            </a><a href="#" class="cart"><i class="ti-shopping-cart"></i></a></h2>
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-                                <h2>$63.00</h2>
-                            </td>
-                            <td>
-                                <p>in stock</p>
-                            </td>
-                            <td><a href="#" class="icon me-3"><i class="ti-close"></i> </a><a href="#"
-                                                                                              class="cart"><i class="ti-shopping-cart"></i></a></td>
-                        </tr>
-                    </tbody>
-                </table>
+            <div class="col-md-12">
+                <div class="title1">    
+                    <h2 class="title-inner1">Your Wishlist</h2>
+                </div>                        
             </div>
         </div>
+    </div>   
+</section>
+<!-- Common Heading End -->
+
+<!--section start-->
+<section class="wishlist-section section-b-space pt-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card_box_main">
+                    <div class="row product-card">								
+                        <div class="col-6 order_detail">
+                            <div>
+                                <h5><a href="product-page(left-image).php">Beautiful Swarovski Stud Earrings</a></h5>
+                                <p class="stock in-stock">In Stock</p>
+                            </div>
+                        </div>
+                        <div class="col-3 order_detail">
+                            <div>
+                                <h5>$63.00</h5>
+                            </div>
+                        </div>								
+                        <div class="col-3 order_detail wish_btn">
+                            <div>
+                                <button class="btn btn-sm btn-solid" type="submit"><i class="fa fa-trash" aria-hidden="true"></i></button>
+                                <button class="btn btn-sm btn-solid" type="submit"><i class="ti-shopping-cart"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row product-card">								
+                        <div class="col-6 order_detail">
+                            <div>
+                                <h5><a href="product-page(left-image).php">Snow Black Trendy Danglers</a></h5>
+                                <p class="stock out-of-stock">Out of Stock</p>
+                            </div>
+                        </div>
+                        <div class="col-3 order_detail">
+                            <div>
+                                <h5>$63.00</h5>
+                            </div>
+                        </div>								
+                        <div class="col-3 order_detail wish_btn">
+                            <div>
+                                <button class="btn btn-sm btn-solid" type="submit"><i class="fa fa-trash" aria-hidden="true"></i></button>
+                                <button class="btn btn-sm btn-solid" type="submit"><i class="ti-shopping-cart"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row product-card">								
+                        <div class="col-6 order_detail">
+                            <div>
+                                <h5><a href="product-page(left-image).php">Sparkling Sea Beads Bracelet</a></h5>
+                                <p class="stock in-stock">In Stock</p>
+                            </div>
+                        </div>
+                        <div class="col-3 order_detail">
+                            <div>
+                                <h5>$63.00</h5>
+                            </div>
+                        </div>								
+                        <div class="col-3 order_detail wish_btn">
+                            <div>
+                                <button class="btn btn-sm btn-solid" type="submit"><i class="fa fa-trash" aria-hidden="true"></i></button>
+                                <button class="btn btn-sm btn-solid" type="submit"><i class="ti-shopping-cart"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row product-card">								
+                        <div class="col-6 order_detail">
+                            <div>
+                                <h5><a href="product-page(left-image).php">Beautiful Heart Shaped Swarovski Earrings</a></h5>
+                                <p class="stock out-of-stock">Out of Stock</p>
+                            </div>
+                        </div>
+                        <div class="col-3 order_detail">
+                            <div>
+                                <h5>$63.00</h5>
+                            </div>
+                        </div>								
+                        <div class="col-3 order_detail wish_btn">
+                            <div>
+                                <button class="btn btn-sm btn-solid" type="submit"><i class="fa fa-trash" aria-hidden="true"></i></button>
+                                <button class="btn btn-sm btn-solid" type="submit"><i class="ti-shopping-cart"></i></button>
+                            </div>
+                        </div>
+                    </div>                                                                    
+                </div>
+            </div>            
+        </div>
         <div class="row wishlist-buttons">
-            <div class="col-12"><a href="#" class="btn btn-solid">continue shopping</a> <a href="#"
-                                                                                           class="btn btn-solid">check out</a></div>
+            <div class="col-12">
+                <button class="btn btn-solid">continue shopping</button> 
+                <a href="#" class="btn btn-solid">check out</a>
+            </div>
         </div>
     </div>
 </section>

@@ -36,12 +36,12 @@
                                         <p class="stock in-stock">In Stock</p>
 									</div>
 								</div>
-								<div class="col-4 order_detail">
+								<div class="col-3 order_detail">
 									<div>
 										<h5>$63.00</h5>
 									</div>
 								</div>								
-								<div class="col-2 order_detail wish_btn">
+								<div class="col-3 order_detail wish_btn">
 									<div>
 										<button class="btn btn-sm btn-solid" type="submit"><i class="fa fa-trash" aria-hidden="true"></i></button>
                                         <button class="btn btn-sm btn-solid" type="submit"><i class="ti-shopping-cart"></i></button>
@@ -55,12 +55,12 @@
                                         <p class="stock out-of-stock">Out of Stock</p>
 									</div>
 								</div>
-								<div class="col-4 order_detail">
+								<div class="col-3 order_detail">
 									<div>
 										<h5>$63.00</h5>
 									</div>
 								</div>								
-								<div class="col-2 order_detail wish_btn">
+								<div class="col-3 order_detail wish_btn">
 									<div>
 										<button class="btn btn-sm btn-solid" type="submit"><i class="fa fa-trash" aria-hidden="true"></i></button>
                                         <button class="btn btn-sm btn-solid" type="submit"><i class="ti-shopping-cart"></i></button>
@@ -74,12 +74,12 @@
                                         <p class="stock in-stock">In Stock</p>
 									</div>
 								</div>
-								<div class="col-4 order_detail">
+								<div class="col-3 order_detail">
 									<div>
 										<h5>$63.00</h5>
 									</div>
 								</div>								
-								<div class="col-2 order_detail wish_btn">
+								<div class="col-3 order_detail wish_btn">
 									<div>
 										<button class="btn btn-sm btn-solid" type="submit"><i class="fa fa-trash" aria-hidden="true"></i></button>
                                         <button class="btn btn-sm btn-solid" type="submit"><i class="ti-shopping-cart"></i></button>
@@ -93,12 +93,12 @@
                                         <p class="stock out-of-stock">Out of Stock</p>
 									</div>
 								</div>
-								<div class="col-4 order_detail">
+								<div class="col-3 order_detail">
 									<div>
 										<h5>$63.00</h5>
 									</div>
 								</div>								
-								<div class="col-2 order_detail wish_btn">
+								<div class="col-3 order_detail wish_btn">
 									<div>
 										<button class="btn btn-sm btn-solid" type="submit"><i class="fa fa-trash" aria-hidden="true"></i></button>
                                         <button class="btn btn-sm btn-solid" type="submit"><i class="ti-shopping-cart"></i></button>
