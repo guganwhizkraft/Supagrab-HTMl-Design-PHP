@@ -4,6 +4,9 @@ select, input, button, select:focus, input:focus, button:focus, select:hover, in
     box-shadow: none !important;
     -webkit-box-shadow: none;
 }
+body > img.img-fluid.bg-img {
+    opacity: 0 !important;
+}
 /********** HOME PAGE TOP BANNER STARTED HERE *************/
 section.new_homebanner {
     padding: 0;
@@ -348,6 +351,9 @@ ul.address-section li {
     background: #f8f8f8;
     box-shadow: 0 0 2px 2px #f1f1f1;
     margin: 20px 0;
+}
+.review_prod_list .order_detail {
+    justify-content: space-between;
 }
 .dashboard .product-order-detail a{
     text-decoration: none !important;
